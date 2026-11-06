@@ -157,6 +157,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# Local benchmark index; the measured JSON report remains versioned.
+results/chroma-e5-large/
+
 # Spyder project settings
 .spyderproject
 .spyproject

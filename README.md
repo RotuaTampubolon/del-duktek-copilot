@@ -104,10 +104,13 @@ uv sync
 uv run pytest tests/unit/test_semantic_search.py tests/unit/test_evaluation.py
 ```
 
-Benchmark end-to-end hanya boleh dijalankan setelah corpus JSONL dan index
-ChromaDB persisten hasil pipeline embedding tersedia. Jangan mengisi hasil
-benchmark secara manual; simpan output aktual dan threshold hasil kalibrasi
-bersama laporan eksperimen.
+Benchmark aktual telah dijalankan pada 114 chunk menggunakan index ChromaDB
+persisten dan `intfloat/multilingual-e5-large` di CPU. Ringkasannya tersedia di
+[`docs/semantic-retrieval-benchmark.md`](docs/semantic-retrieval-benchmark.md)
+dan artefak JSON di
+[`results/retrieval-benchmark-e5-large.json`](results/retrieval-benchmark-e5-large.json).
+Jangan mengisi hasil benchmark secara manual; ulangi indexing dan evaluasi
+untuk mengganti model, corpus, atau query.
 
 ## Dokumen Laporan
 

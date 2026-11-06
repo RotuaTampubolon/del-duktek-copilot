@@ -1,0 +1,319 @@
+{
+  "model_name": "intfloat/multilingual-e5-large",
+  "device": "cpu",
+  "chunk_count": 114,
+  "query_count": 7,
+  "query_encoding_seconds": 0.6849211000371724,
+  "metrics_in_domain": {
+    "recall_at_5": 0.8,
+    "recall_at_10": 0.8,
+    "mrr_at_10": 0.6666666666666666,
+    "ndcg_at_10": 0.64550920853209
+  },
+  "ood_threshold": 0.8170944452285767,
+  "ood_rejection_precision": 1.0,
+  "per_query": [
+    {
+      "query_id": "q01-network-outage",
+      "query": "internet kampus terputus dan koneksi jaringan lokal terganggu",
+      "out_of_domain": false,
+      "top_similarity": 0.8644114136695862,
+      "top_document_ids": [
+        "sop-it-jaringan-lokal",
+        "sop-it-bandwidth",
+        "network-unm-sop-2019",
+        "network-maintenance-surakarta-diskominfo-2022"
+      ],
+      "recall_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "mrr_at_10": 0.3333333333333333,
+      "ndcg_at_10": 0.4367467095119258,
+      "top_results": [
+        {
+          "chunk_id": "sop-it-jaringan-lokal-p002-c0003",
+          "document_id": "sop-it-jaringan-lokal",
+          "source_file": "SOP-IT.pdf",
+          "page_number": 2,
+          "cosine_distance": 0.13558858633041382,
+          "cosine_similarity": 0.8644114136695862
+        },
+        {
+          "chunk_id": "sop-it-jaringan-lokal-p003-c0005",
+          "document_id": "sop-it-jaringan-lokal",
+          "source_file": "SOP-IT.pdf",
+          "page_number": 3,
+          "cosine_distance": 0.1358243227005005,
+          "cosine_similarity": 0.8641756772994995
+        },
+        {
+          "chunk_id": "sop-it-bandwidth-p014-c0005",
+          "document_id": "sop-it-bandwidth",
+          "source_file": "SOP-IT.pdf",
+          "page_number": 14,
+          "cosine_distance": 0.13867098093032837,
+          "cosine_similarity": 0.8613290190696716
+        }
+      ]
+    },
+    {
+      "query_id": "q02-pc-troubleshooting",
+      "query": "komputer atau PC tidak menyala dan perlu langkah troubleshooting",
+      "out_of_domain": false,
+      "top_similarity": 0.8470606207847595,
+      "top_document_ids": [
+        "endpoint-maintenance-surakarta-setwan-2022",
+        "network-unm-sop-2019",
+        "helpdesk-bsip-2024",
+        "helpdesk-unila-sop-tik-pdi-04",
+        "helpdesk-ugm-pos-2024",
+        "network-iain-metro-sop-tipd-2024"
+      ],
+      "recall_at_5": 0.0,
+      "recall_at_10": 0.0,
+      "mrr_at_10": 0.0,
+      "ndcg_at_10": 0.0,
+      "top_results": [
+        {
+          "chunk_id": "endpoint-maintenance-surakarta-setwan-2022-p004-c0009",
+          "document_id": "endpoint-maintenance-surakarta-setwan-2022",
+          "source_file": "SOP SKA_Setwan_02_03_CFM_03_SOP_BAG_UMUMKEU_16 20230524155532.pdf",
+          "page_number": 4,
+          "cosine_distance": 0.15293937921524048,
+          "cosine_similarity": 0.8470606207847595
+        },
+        {
+          "chunk_id": "endpoint-maintenance-surakarta-setwan-2022-p003-c0006",
+          "document_id": "endpoint-maintenance-surakarta-setwan-2022",
+          "source_file": "SOP SKA_Setwan_02_03_CFM_03_SOP_BAG_UMUMKEU_16 20230524155532.pdf",
+          "page_number": 3,
+          "cosine_distance": 0.15514636039733887,
+          "cosine_similarity": 0.8448536396026611
+        },
+        {
+          "chunk_id": "network-unm-sop-2019-p003-c0007",
+          "document_id": "network-unm-sop-2019",
+          "source_file": "MIM_8_SOP-Penanganan-Gangguan-Koneksi-Internet-Jaringan-Lokal.pdf",
+          "page_number": 3,
+          "cosine_distance": 0.1553422212600708,
+          "cosine_similarity": 0.8446577787399292
+        }
+      ]
+    },
+    {
+      "query_id": "q03-helpdesk-ticket",
+      "query": "bagaimana prosedur mencatat dan menangani laporan pada helpdesk TI",
+      "out_of_domain": false,
+      "top_similarity": 0.8726187944412231,
+      "top_document_ids": [
+        "helpdesk-bsip-2024",
+        "helpdesk-unila-sop-tik-pdi-04",
+        "helpdesk-ugm-pos-2024"
+      ],
+      "recall_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "mrr_at_10": 1.0,
+      "ndcg_at_10": 1.0,
+      "top_results": [
+        {
+          "chunk_id": "helpdesk-bsip-2024-p003-c0013",
+          "document_id": "helpdesk-bsip-2024",
+          "source_file": "SOP_Helpdesk_Penanganan_Permasalahan_Teknis_TI_Sekretariat_BSIP.pdf",
+          "page_number": 3,
+          "cosine_distance": 0.12738120555877686,
+          "cosine_similarity": 0.8726187944412231
+        },
+        {
+          "chunk_id": "helpdesk-bsip-2024-p001-c0004",
+          "document_id": "helpdesk-bsip-2024",
+          "source_file": "SOP_Helpdesk_Penanganan_Permasalahan_Teknis_TI_Sekretariat_BSIP.pdf",
+          "page_number": 1,
+          "cosine_distance": 0.12888747453689575,
+          "cosine_similarity": 0.8711125254631042
+        },
+        {
+          "chunk_id": "helpdesk-unila-sop-tik-pdi-04-p004-c0009",
+          "document_id": "helpdesk-unila-sop-tik-pdi-04",
+          "source_file": "SOP-TIK-PDI-04 Pengelolaan Sistem Helpdesk.pdf",
+          "page_number": 4,
+          "cosine_distance": 0.12900686264038086,
+          "cosine_similarity": 0.8709931373596191
+        }
+      ]
+    },
+    {
+      "query_id": "q04-network-synonym",
+      "query": "akses intranet lambat, bagaimana penanganan gangguan konektivitas",
+      "out_of_domain": false,
+      "top_similarity": 0.8451487421989441,
+      "top_document_ids": [
+        "network-iain-metro-sop-tipd-2024",
+        "sop-it-jaringan-lokal",
+        "network-unm-sop-2019",
+        "sop-it-bandwidth",
+        "helpdesk-ugm-pos-2024",
+        "network-maintenance-surakarta-diskominfo-2022"
+      ],
+      "recall_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "mrr_at_10": 1.0,
+      "ndcg_at_10": 0.8710785440003369,
+      "top_results": [
+        {
+          "chunk_id": "network-iain-metro-sop-tipd-2024-p002-c0006",
+          "document_id": "network-iain-metro-sop-tipd-2024",
+          "source_file": "SOP-TIPD-2024-PENANGANAN-GANGGUAN-JARINGAN-KOMPUTER.pdf",
+          "page_number": 2,
+          "cosine_distance": 0.1548512578010559,
+          "cosine_similarity": 0.8451487421989441
+        },
+        {
+          "chunk_id": "sop-it-jaringan-lokal-p003-c0005",
+          "document_id": "sop-it-jaringan-lokal",
+          "source_file": "SOP-IT.pdf",
+          "page_number": 3,
+          "cosine_distance": 0.15577375888824463,
+          "cosine_similarity": 0.8442262411117554
+        },
+        {
+          "chunk_id": "network-unm-sop-2019-p003-c0009",
+          "document_id": "network-unm-sop-2019",
+          "source_file": "MIM_8_SOP-Penanganan-Gangguan-Koneksi-Internet-Jaringan-Lokal.pdf",
+          "page_number": 3,
+          "cosine_distance": 0.1566227674484253,
+          "cosine_similarity": 0.8433772325515747
+        }
+      ]
+    },
+    {
+      "query_id": "q05-ambiguous-maintenance",
+      "query": "maintenance sistem",
+      "out_of_domain": false,
+      "top_similarity": 0.8170944452285767,
+      "top_document_ids": [
+        "network-maintenance-surakarta-diskominfo-2022",
+        "network-iain-metro-sop-tipd-2024",
+        "endpoint-maintenance-surakarta-setwan-2022",
+        "helpdesk-bsip-2024"
+      ],
+      "recall_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "mrr_at_10": 1.0,
+      "ndcg_at_10": 0.9197207891481876,
+      "top_results": [
+        {
+          "chunk_id": "network-maintenance-surakarta-diskominfo-2022-p004-c0013",
+          "document_id": "network-maintenance-surakarta-diskominfo-2022",
+          "source_file": "SOP SKA_Diskominfo-SP_01_01_CFM_-01_SOP_BID_Tinf_3 20230525081216.pdf",
+          "page_number": 4,
+          "cosine_distance": 0.18290555477142334,
+          "cosine_similarity": 0.8170944452285767
+        },
+        {
+          "chunk_id": "network-iain-metro-sop-tipd-2024-p001-c0003",
+          "document_id": "network-iain-metro-sop-tipd-2024",
+          "source_file": "SOP-TIPD-2024-PENANGANAN-GANGGUAN-JARINGAN-KOMPUTER.pdf",
+          "page_number": 1,
+          "cosine_distance": 0.18981528282165527,
+          "cosine_similarity": 0.8101847171783447
+        },
+        {
+          "chunk_id": "endpoint-maintenance-surakarta-setwan-2022-p004-c0009",
+          "document_id": "endpoint-maintenance-surakarta-setwan-2022",
+          "source_file": "SOP SKA_Setwan_02_03_CFM_03_SOP_BAG_UMUMKEU_16 20230524155532.pdf",
+          "page_number": 4,
+          "cosine_distance": 0.1916937232017517,
+          "cosine_similarity": 0.8083062767982483
+        }
+      ]
+    },
+    {
+      "query_id": "q06-out-of-domain-recipe",
+      "query": "resep rendang dan takaran bumbu masakan",
+      "out_of_domain": true,
+      "top_similarity": 0.8234415650367737,
+      "top_document_ids": [
+        "backup-bpbd-diy-sop-35-2026",
+        "network-bpbd-diy-sop-36-2026",
+        "network-iain-metro-sop-tipd-2024",
+        "helpdesk-ugm-pos-2024",
+        "helpdesk-bsip-2024",
+        "helpdesk-unila-sop-tik-pdi-04"
+      ],
+      "recall_at_5": 0.0,
+      "recall_at_10": 0.0,
+      "mrr_at_10": 0.0,
+      "ndcg_at_10": 0.0,
+      "top_results": [
+        {
+          "chunk_id": "backup-bpbd-diy-sop-35-2026-p002-c0002",
+          "document_id": "backup-bpbd-diy-sop-35-2026",
+          "source_file": "20260330072215SOP_Penyimpanan_Data_dan_Backup_Data.pdf",
+          "page_number": 2,
+          "cosine_distance": 0.17655843496322632,
+          "cosine_similarity": 0.8234415650367737
+        },
+        {
+          "chunk_id": "network-bpbd-diy-sop-36-2026-p002-c0002",
+          "document_id": "network-bpbd-diy-sop-36-2026",
+          "source_file": "20260330072739SOP_Penanganan_Jaringan_Internet_dan_Intranet.pdf",
+          "page_number": 2,
+          "cosine_distance": 0.17655843496322632,
+          "cosine_similarity": 0.8234415650367737
+        },
+        {
+          "chunk_id": "backup-bpbd-diy-sop-35-2026-p001-c0001",
+          "document_id": "backup-bpbd-diy-sop-35-2026",
+          "source_file": "20260330072215SOP_Penyimpanan_Data_dan_Backup_Data.pdf",
+          "page_number": 1,
+          "cosine_distance": 0.19046473503112793,
+          "cosine_similarity": 0.8095352649688721
+        }
+      ]
+    },
+    {
+      "query_id": "q07-out-of-domain-weather",
+      "query": "prakiraan cuaca dan jadwal penerbangan besok",
+      "out_of_domain": true,
+      "top_similarity": 0.8132271766662598,
+      "top_document_ids": [
+        "backup-bpbd-diy-sop-35-2026",
+        "network-bpbd-diy-sop-36-2026",
+        "network-unm-sop-2019",
+        "helpdesk-bsip-2024",
+        "endpoint-maintenance-surakarta-setwan-2022",
+        "helpdesk-unila-sop-tik-pdi-04",
+        "sop-it-perbaikan-pc"
+      ],
+      "recall_at_5": 0.0,
+      "recall_at_10": 0.0,
+      "mrr_at_10": 0.0,
+      "ndcg_at_10": 0.0,
+      "top_results": [
+        {
+          "chunk_id": "backup-bpbd-diy-sop-35-2026-p002-c0002",
+          "document_id": "backup-bpbd-diy-sop-35-2026",
+          "source_file": "20260330072215SOP_Penyimpanan_Data_dan_Backup_Data.pdf",
+          "page_number": 2,
+          "cosine_distance": 0.18677282333374023,
+          "cosine_similarity": 0.8132271766662598
+        },
+        {
+          "chunk_id": "network-bpbd-diy-sop-36-2026-p002-c0002",
+          "document_id": "network-bpbd-diy-sop-36-2026",
+          "source_file": "20260330072739SOP_Penanganan_Jaringan_Internet_dan_Intranet.pdf",
+          "page_number": 2,
+          "cosine_distance": 0.18677282333374023,
+          "cosine_similarity": 0.8132271766662598
+        },
+        {
+          "chunk_id": "network-unm-sop-2019-p003-c0010",
+          "document_id": "network-unm-sop-2019",
+          "source_file": "MIM_8_SOP-Penanganan-Gangguan-Koneksi-Internet-Jaringan-Lokal.pdf",
+          "page_number": 3,
+          "cosine_distance": 0.19292563199996948,
+          "cosine_similarity": 0.8070743680000305
+        }
+      ]
+    }
+  ]
+}
