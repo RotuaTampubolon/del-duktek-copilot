@@ -1,0 +1,7 @@
+{"query_id":"q01-network-outage","query":"internet kampus terputus dan koneksi jaringan lokal terganggu","expected_document_ids":["network-unm-sop-2019","network-iain-metro-sop-tipd-2024","network-maintenance-surakarta-diskominfo-2022"],"out_of_domain":false}
+{"query_id":"q02-pc-troubleshooting","query":"komputer atau PC tidak menyala dan perlu langkah troubleshooting","expected_document_ids":["sop-it-perbaikan-pc"],"out_of_domain":false}
+{"query_id":"q03-helpdesk-ticket","query":"bagaimana prosedur mencatat dan menangani laporan pada helpdesk TI","expected_document_ids":["helpdesk-unila-sop-tik-pdi-04","helpdesk-bsip-2024","helpdesk-ugm-pos-2024"],"out_of_domain":false}
+{"query_id":"q04-network-synonym","query":"akses intranet lambat, bagaimana penanganan gangguan konektivitas","expected_document_ids":["network-unm-sop-2019","network-iain-metro-sop-tipd-2024","network-maintenance-surakarta-diskominfo-2022"],"out_of_domain":false}
+{"query_id":"q05-ambiguous-maintenance","query":"maintenance sistem","expected_document_ids":["network-maintenance-surakarta-diskominfo-2022","endpoint-maintenance-surakarta-setwan-2022"],"out_of_domain":false}
+{"query_id":"q06-out-of-domain-recipe","query":"resep rendang dan takaran bumbu masakan","expected_document_ids":[],"out_of_domain":true}
+{"query_id":"q07-out-of-domain-weather","query":"prakiraan cuaca dan jadwal penerbangan besok","expected_document_ids":[],"out_of_domain":true}
