@@ -1,0 +1,385 @@
+[
+  {
+    "filename": "1.-Layanan-Helpdesk-Teknologi-Informasi-ok.pdf",
+    "pages": [
+      {
+        "page_num": 1,
+        "chars": 1608,
+        "text": "UNIVERSITAS GADJAH MADA \nFAKULTAS KEDOKTERAN,  \nKESEHATAN MASYARAKAT, DAN \nKEPERAWATAN \nNomor POS 1/UN1/KU/TI/2024 \nTgl. Pembuatan 26 September 2024 \nTgl. Revisi - \nTgl. Efektif 1 Oktober 2024 \nDisahkan oleh Dekan, \n \nditandatangani secara \nelektronik \n \nProf. dr. Yodi \nMahendradhata, MSc., \nPhD., FRSPH \nNIP 11197210201109101 \nNama POS Layanan Helpdesk \nTeknologi Informasi \nDASAR HUKUM KUALIFIKASI PELAKSANAAN \n1. Peraturan Pemerintah Nomor 67 \nTahun 2013 tentang Statuta \nUniversitas Gadjah Mada; \n2. Peraturan Menteri Pendayagunaan \nAparatur Negara dan Reformasi \nBirokrasi Republik Indonesia Nomor \n35 Tahun 2012 tentang  \nPenyusunan Standar Operasional \nProsedur  Administrasi \nPemerintahan; \n3. Peraturan Rektor Universitas \nGadjah Mada Nomor 2 Tahun 2024 \ntentang Naskah Dinas; \n4. Peraturan Rektor Universitas \nGadjah Mada Nomor \n43/P/SK/HT/2008 tentang \nKebijakan Teknologi Informasi dan \nKomunikasi  Universitas Gadjah \nMada; \n5. Peraturan Rektor Universitas \nGadjah Mada Nomor \n58/P/SK/HT/2011 tentang \nKebijakan Jaringan Komputer di \nUniversitas Gadjah Mada; \n6. Keputusan Dekan Fakultas \nKedokteran, Kesehatan Masyarakat, \ndan Keperawatan Universitas \nGadjah Mada Nomor \n1720/UN1/FK/KMK/KPT/TU/2024 \ntentang Tata Hubungan Kerja \nOrganisasi di  Fakultas Kedokteran, \nKesehatan Masyarakat, dan \nKeperawatan Universitas Gadjah \nMada. \n1. Memiliki kemampuan dan pengetahuan di \nbidang komputer;  \n2. Ramah;  \n3. Komunikatif.   \nKETERKAITAN PERALATAN/PERLENGKAPAN \n1. POS Pengajuan Definitif Belanja; \n2. POS Monitoring Evaluasi Penerimaan \ndan Belanja. \n1. Komputer/laptop;  \n2. Jaringan internet."
+      },
+      {
+        "page_num": 2,
+        "chars": 264,
+        "text": "PERINGATAN PENCATATAN DAN PENDATAAN \nKeluhan pemohon yang ditangani hanya \ndi area Bidang TI dimana Urusan \nAdministrasi Teknologi Informasi \nmempunyai kewenangan. \n1. Surat usulan;  \n2. Pencatatan keluhan di sistem pencatatan \nlayanan di Unit Teknologi Informasi."
+      },
+      {
+        "page_num": 3,
+        "chars": 878,
+        "text": "Pemohon\nPetugas \nTeknologi \nInformasi\nKelengkapan Waktu Output\nPenyampaian keluhan bisa \ndilakukan melalui: \n1. email: ti.fk@ugm.ac.id\n2. WA/Telegram: 0811-2843-\n859\n3.datang langsung ke Urusan \nAdminitrasi Teknologi \nInformasi \n2 Melakukan verifikasi dan analisis Permasalahan 1 jam Hasil analisis\nApabila permasalahan tidak \nbisa diselesaikan di Urusan \nAdministrasi Teknologi \nInformasi, pemohon diminta \nmenghubungi  pihak lain yang \nlebih berwenang\n3 Menindaklanjuti permasalahan Hasil analisis 2 jam Permasalahan terselesaikan\nIndikator waktu tindak lanjut: \n(1)Ringan 5-30 Menit \n(2)Sedang 2 jam (3)Berat lebih \ndari 3 hari\n3 Jam \n10 MenitTOTAL WAKTU\nTanda Pengenal \n(KTM/Kartu \nPegawai) bersifat \noptional\n10 menit PermasalahanMenyampaian permasalahan1\nProsedur Operasional Standar Layanan Helpdesk Teknologi Informasi\nNo Kegiatan\nMutu Baku\nKeterangan\nPelaksana\nTidak\nYa"
+      }
+    ],
+    "error": null,
+    "metadata": {
+      "/ModDate": "D:20251231154438+07'00'",
+      "/Creator": "Nitro Pro 7"
+    },
+    "total_pages": 3
+  },
+  {
+    "filename": "20260330072215SOP_Penyimpanan_Data_dan_Backup_Data.pdf",
+    "pages": [
+      {
+        "page_num": 1,
+        "chars": 2947,
+        "text": "PEMERINTAH DAERAH DAERAH ISTIMEWA YOGYAKARTA\nBADAN PENANGGULANGAN BENCANA DAERAH (BPBD)\nPUSAT PENGENDALI OPERASI (PUSDALOPS)\nJl. Kenari 14A, Semaki, Umbulharjo, Yogyakarta 55166\nTelp. (0274) 555584, Wa. 555584, email: pusdalopsdiy@gmail.com\nNomor SOP 35 TAHUN 2026\nTanggal Pembuatan 11 Maret 2026\nTanggal Revisi 17 Maret 2026\nTanggal Efektive 30 Maret 2026\nDisahkan Oleh Kepala Pelaksana\nBadan Penanggulangan Bencana Daerah DIY\n${ttd}\nAGUSTINUS RURUH H., SH, ST, M.Kes.\nNama SOP Penyimpanan Data dan Backup Data\nDasar Hukum Kualifikasi Pelaksana\n1. Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik diubah\nmelalui Undang-Undang Nomor 19 Tahun 2016 tentang Perubahan atas Undang-Undang\nNomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik;\n2. Undang-Undang Nomor 27 Tahun 2022 tentang Perlindungan Data Pribadi;\n3. Peraturan  Pemerintah  Nomor  71  Tahun  2019  tentang  Penyelenggaraan  Sistem  dan\nTransaksi Elektronik;\n4. Peraturan  Presiden  Nomor  95  Tahun  2018  tentang  Sistem  Pemerintahan  Berbasis\nElektronik;\n5. Peraturan Badan Siber dan Sandi Negara Nomor 10 Tahun 2019 tentang Pelaksanaan\nPersandian untuk Pengamanan Informasi di Pemerintah Daerah;\n6. Peraturan  Badan  Siber  dan  Sandi  Negara  Nomor  8  Tahun  2020  tentang  Sistem\nPengamanan dalam Penyelenggaraan Sistem Elektronik; Peraturan Badan Siber dan\nSandi Negara Nomor 10 Tahun 2020 tentang Tim Tanggap Insiden Siber;\n7. Peraturan  Badan  Siber  dan  Sandi  Negara  Nomor  4  Tahun  2021  tentang  Pedoman\nManajemen Keamanan Informasi Sistem Pemerintahan Berbasis Elektronik dan Standar\nTeknis dan Prosedur Keamanan Sistem Pemerintahan Berbasis Elektronik;\n8. Peraturan Gubernur Daerah Istimewa Yogyakarta Nomor 31 Tahun 2016 tentang Sistem\nManajemen Keamanan Informasi; \n9. Peraturan  Gubernur  Daerah  Istimewa  Yogyakarta  Nomor  25  Tahun  2021  tentang\nPenyelenggaraan Sertifikat Elektronik di Lingkungan Pemerintah Daerah Daerah Istimewa\nYogyakarta;\n10. Peraturan Daerah Provinsi Daerah Istimewa Yogyakarta Nomor 3 Tahun 2019 tentang\nPengelolaan dan Pemanfaatan Teknologi Informasi dan Komunikasi;\n11. Peraturan Gubernur Daerah Istimewa Yogyakarta Nomor 41 Tahun 2021 tentang Sistem\nKlasifikasi Keamanan dan Akses Arsip Dinamis;\n12. Peraturan Gubernur Daerah Istimewa Yogyakarta Nomor 67 Tahun 2022 tentang Sistem\nPemerintahan Berbasis Elektronik Pemerintah Daerah Daerah Istimewa Yogyakarta.\n13. Peraturan  Gubernur  Daerah  Istimewa  Yogyakarta  Nomor  22  Tahun  2023  tentang"
+      },
+      {
+        "page_num": 2,
+        "chars": 2228,
+        "text": "Keterkaitan Peralatan / Perlengkapan\n1. SOP Penanganan Insiden Siber\n2. SOP Penanganan Jaringan Intranet dan Internet\n1. Server Data (storage)\n2. Server Aplikasi\n3. Perangkat Jaringan (Router)\n4. Komputer dengan aplikasi\n5. Internet cepat\nPeringatan Pencatatan dan Pendataan\nPendampingan dilakukan bilamana diperlukan Disimpan sebagai dokumen Penyimpanan Data dan Backup Data\nDefinisi :\nSOP : Penyimpanan Data dan Backup Data\nKEGIATAN\nMUTU BAKU Keterangan\nPIC IT\nBPBD DIY\nUSER\n(BIDANG-BIDANG\ndan KARYAWAN)\nKelengkapan dan\nPeralatan\nWaktu\nOutput\n1 2 3 4 5 6 7\n1. Penyimpanan Data – \nData Pada Server \nStorage\nKomputer,  Internet,  alat\ntulis, software - software\npendung.\n5 Menit Data – Data Produk yang dibuat dan\natau  dikumpulkan  demi  untuk\nmendukung  terlaksananya  progam\npenanggulangan Bencana di wilayah\nDaerah Istimewa Yogyakarta\nData  Bidang,  Data  Organisasi,  Data\nKejadian,  Data  Kajian,  Data\nPenanganan,  Data  Kegiatan  dan  Data\nlainya  yang  berkaitan  dengan  proses\nPenanggulangan Bencana\n2. Lokasi Penyimpanan \nData\nKomputer,  Internet,  alat\ntulis, software - software\npendung.\n10\nMenit\nLokasi  Penyimpanan  data  terpilah\nSetiap  Bidang  dan  pengelompokan\ndilakukan bedasarkan tahun.\nPenyiapan  lokasi  penyimpanan\nbedasarkan  Kriteria  dari  data  yang\ndisimpan  dibedakan  antara  Data  dan\nDokumentasi (foto dan Video) \nData  File  disimpan  pada  server  Data\nsedangkan  Data  Dokumentasi  Video\ndisimpan pada Server Dokumentasi\n3. Data File dan \nDokumentasi Foto/Video\nKomputer,  Internet,  alat\ntulis  dan  software-\nsoftware pendukung\n10\nMenit\nTransfer data kedalam server Durasi Waktu tergantung size data yang\ndisimpan\n4. Backup Data Komputer,  Internet,  alat\ntulis  dan  software-\nsoftware pendukung\n3 Bulan Backup data pada server Backup Dilakukan  proses  backup  data  dalam\ninterval 3 bulan sekali.\n- SERVER DATA\n- SERVER DOKUMENTASI\n- SERVER PETA\n5.  Selesai\nDokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik\n yang diterbitkan oleh Balai Besar Sertifikasi Elektronik (BSrE), Badan Siber dan Sandi Negara (BSSN).\nPowered by TCPDF (www.tcpdf.org)\n                               2 / 2\nPowered by TCPDF (www.tcpdf.org)\n                               2 / 2"
+      }
+    ],
+    "error": null,
+    "metadata": {
+      "/Producer": "TCPDF 6.11.0 (http://www.tcpdf.org)",
+      "/CreationDate": "D:20260330072214+07'00'",
+      "/ModDate": "D:20260330072214+07'00'",
+      "/Trapped": "/False"
+    },
+    "total_pages": 2
+  },
+  {
+    "filename": "20260330072739SOP_Penanganan_Jaringan_Internet_dan_Intranet.pdf",
+    "pages": [
+      {
+        "page_num": 1,
+        "chars": 2951,
+        "text": "PEMERINTAH DAERAH DAERAH ISTIMEWA YOGYAKARTA\nBADAN PENANGGULANGAN BENCANA DAERAH (BPBD)\nPUSAT PENGENDALI OPERASI (PUSDALOPS)\nJl. Kenari 14A, Semaki, Umbulharjo, Yogyakarta 55166\nTelp. (0274) 555584, Wa. 555584, email: pusdalopsdiy@gmail.com\nNomor SOP 36 TAHUN 2026\nTanggal Pembuatan 11 Maret 2026\nTanggal Revisi 17 Maret 2026\nTanggal Efektive 30 Maret 2026\nDisahkan Oleh Kepala Pelaksana\nBadan Penanggulangan Bencana Daerah DIY\n${ttd}\nAGUSTINUS RURUH H., SH, ST, M.Kes.\nNama SOP Penanganan Jaringan Intranet dan Internet\nDasar Hukum Kualifikasi Pelaksana\n1. Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik diubah\nmelalui Undang-Undang Nomor 19 Tahun 2016 tentang Perubahan atas Undang-Undang\nNomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik;\n2. Undang-Undang Nomor 27 Tahun 2022 tentang Perlindungan Data Pribadi;\n3. Peraturan Pemerintah Nomor 71 Tahun 2019 tentang Penyelenggaraan Sistem dan Transaksi\nElektronik;\n4. Peraturan  Presiden  Nomor  95  Tahun  2018  tentang  Sistem  Pemerintahan  Berbasis\nElektronik;\n5. Peraturan Badan Siber dan Sandi Negara Nomor 10 Tahun 2019 tentang Pelaksanaan\nPersandian untuk Pengamanan Informasi di Pemerintah Daerah;\n6. Peraturan Badan Siber dan Sandi Negara Nomor 8 Tahun 2020 tentang Sistem Pengamanan\ndalam Penyelenggaraan Sistem Elektronik; Peraturan Badan Siber dan Sandi Negara Nomor\n10 Tahun 2020 tentang Tim Tanggap Insiden Siber;\n7. Peraturan Badan Siber dan Sandi Negara Nomor 4 Tahun 2021 tentang Pedoman Manajemen\nKeamanan  Informasi  Sistem Pemerintahan  Berbasis Elektronik dan  Standar Teknis dan\nProsedur Keamanan Sistem Pemerintahan Berbasis Elektronik; \n8. Peraturan Gubernur Daerah Istimewa Yogyakarta Nomor 31 Tahun 2016 tentang Sistem\nManajemen Keamanan Informasi; \n9. Peraturan  Gubernur  Daerah  Istimewa  Yogyakarta  Nomor  25  Tahun  2021  tentang\nPenyelenggaraan Sertifikat Elektronik di Lingkungan Pemerintah Daerah Daerah Istimewa\nYogyakarta;\n10. Peraturan  Daerah  Provinsi  Daerah  Istimewa  Yogyakarta  Nomor  3  Tahun  2019  tentang\nPengelolaan dan Pemanfaatan Teknologi Informasi dan Komunikasi;\n11. Peraturan Gubernur Daerah Istimewa Yogyakarta Nomor 41 Tahun 2021 tentang Sistem\nKlasifikasi Keamanan dan Akses Arsip Dinamis;\n12. Peraturan Gubernur Daerah Istimewa Yogyakarta Nomor 67 Tahun 2022 tentang Sistem\nPemerintahan Berbasis Elektronik Pemerintah Daerah Daerah Istimewa Yogyakarta.\n13. Peraturan Gubernur Daerah Istimewa Yogyakarta Nomor 22 Tahun 2023 tentang Arsitektur\ndan "
+      },
+      {
+        "page_num": 2,
+        "chars": 2337,
+        "text": "Keterkaitan Peralatan / Perlengkapan\n1. SOP Penanganan Insiden Siber\n2. SOP Penyimpanan Data dan Backup Data\n1. Server Data (storage)\n2. Server Aplikasi\n3. Perangkat Jaringan (Router)\n4. Komputer dengan aplikasi\n5. Internet cepat\nPeringatan Pencatatan dan Pendataan\nPendampingan dilakukan bilamana diperlukan Disimpan sebagai dokumen penanganan Jaringan Intranet dan Internet\nDefinisi :\nSOP : Penanganan Jaringan Intranet dan Internet\nKEGIATAN\nMUTU BAKU Keterangan\nPIC IT\nBPBD DIY BPBD DIY DISKOMINFO Kelengkapan danPeralatan Waktu Output\n1 2 3 5 7 8 9 9\n1. Laporan gangguan \nInternet dan Intranet\nKomputer,  Internet,  alat\ntulis, software - software\npendung.\n5 Menit Adanya  laporan  permasalahan\njaringan internet maupun intranet\nMenggunakan  aplikasi  monitoring  dan\nsoftware pendukung lainya.\n2. Pengecekan hardware \ndan Software\nKomputer,  Internet,  alat\ntulis, software - software\npendung.\n10\nMenit\nPengecekan seluruh perangkat yang\nterhubung  ke  jaringan  internet  dan\nIntranet.\nDurasi  waktu  menyesuaikan  dengan\nadanya tindakan aktifitas mencurigakan.\n3. Analisis Permasalahan Komputer,  Internet,  alat\ntulis,  email,  Discord,\nsoftware  -  software\npendung.\n10\nMenit\nIndentifikasi  permasalahan\nditemukan  dan  dilanjutkan\npenenganan\nJika  Permasalahan  ada  pada  jaringan\nUtama  berkordinasi  dengan\nDISKOMINFO melalui HELP DESK\n4. Penanganan dan \nPenyelesaian\nKomputer,  Internet,  alat\ntulis,  email,  Discord,\nsoftware  -  software\npendung.\n2 Jam Perbaikan dan Maintenance Durasi  Waktu  tergantung  tingkat\nKerusakan  dan  jika  terkendala  pada\nperangkat  Router  serta  tidak  adanya\nRouter pengganti berkoordinasi dengan\nDISKOMINFO.\n5. Pembuatan laporan Komputer,  Internet,  alat\ntulis,  email,  Discord,\nsoftware  -  software\npendung.\n2 Jam Penyampaian  dan  pembuatan\nlaporan  tertulis  terkait  proses\npenanganan yang sudah dilakukan.\nPenyampaian  laporan  secara  tertulis\nyang  ditujukan  ke  DISKOMINFO  jika\nadanya Permasalahan terkait Hardware\ndan Jaringan Utama.\n6. Selesai\nDokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik\n yang diterbitkan oleh Balai Besar Sertifikasi Elektronik (BSrE), Badan Siber dan Sandi Negara (BSSN).\nPowered by TCPDF (www.tcpdf.org)\n                               2 / 2\nPowered by TCPDF (www.tcpdf.org)\n                               2 / 2"
+      }
+    ],
+    "error": null,
+    "metadata": {
+      "/Producer": "TCPDF 6.11.0 (http://www.tcpdf.org)",
+      "/CreationDate": "D:20260330072738+07'00'",
+      "/ModDate": "D:20260330072738+07'00'",
+      "/Trapped": "/False"
+    },
+    "total_pages": 2
+  },
+  {
+    "filename": "3.-SOP-TROUBLESHOOTING-KOMPUTER-PC.pdf",
+    "pages": [
+      {
+        "page_num": 1,
+        "chars": 1384,
+        "text": "STANDAR OPERASIONAL PROSEDUR  \nSTIKES RSPAD GATOT SOEBROTO  \n \n \nNO DOKUMEN \nLPMI-STIKesRSGS/SOP.STDL-N/003 \n \nNO. REVISI Halaman \n1 dari 3 \nSOP \n \n \nTanggal Terbit \n \nDitetapkan \nKetua STIKES RSPAD Gatot Soebroto \n \n \n \nDr. Didin Syaefudin, SKp, S.H, MARS \nPENGERTIAN \nTroubleshooting Komputer (PC) adalah kegiatan identifikasi, analisis, perbaikan, dan \npemulihan gangguan atau kerusakan pada perangkat komputer, baik perangkat keras \n(hardware), perangkat lunak (software), maupun jaringan yang digunakan dalam \nmendukung kegiatan akademik, administrasi, dan layanan di lingkungan STIKes \nRSPAD Gatot Soebroto. \nTUJUAN \nSOP ini bertujuan untuk mengatur dan menjamin pelaksanaan penanganan gangguan \nkomputer dilakukan secara cepat, tepat, terdokumentasi, dan dapat \ndipertanggungjawabkan sehingga operasional institusi dapat berjalan dengan baik. \nKEBIJAKAN \n1. Statuta STIKes RSPAD Gatot Soebroto. \n2. Pedoman Pengelolaan Teknologi Informasi dan Komunikasi.  \n3. Kebijakan Keamanan Sistem Informasi STIKes RSPAD Gatot Soebroto. \n4. Pedoman Pengelolaan Aset Teknologi Informasi. \nPROSEDUR \nPelaporan Gangguan \n1. Pengguna melaporkan gangguan komputer kepada Unit Teknologi Informasi (TI) \nmelalui formulir, telepon, email, atau media layanan yang tersedia.  \n2. Laporan harus mencantumkan:  \na) Nama pengguna dan unit kerja.  \nb) Lokasi perangkat.  \nc) Jenis gangguan yang terjadi."
+      },
+      {
+        "page_num": 2,
+        "chars": 1340,
+        "text": "d) Waktu terjadinya gangguan.  \nIdentifikasi dan Verifikasi  \n1. Petugas TI menerima dan mencatat laporan gangguan.  \n2. Petugas TI melakukan pemeriksaan awal untuk mengidentifikasi sumber \nmasalah.  \n3. Verifikasi meliputi:  \na) Kondisi perangkat keras (hardware).  \nb) Sistem operasi dan aplikasi.  \nc) Koneksi jaringan dan internet.  \nd) Keamanan sistem (virus, malware, atau gangguan lainnya).  \n4. Tingkat gangguan dikategorikan menjadi:  \na) Ringan.  \nb) Sedang.  \nc) Berat \nPenanganan Gangguan \n1. Gangguan ringan ditangani langsung oleh petugas TI.  \n2. Gangguan perangkat lunak dapat dilakukan melalui:  \na) Konfigurasi ulang sistem.  \nb) Instalasi atau pembaruan aplikasi.  \nc) Pembersihan virus atau malware.  \nd) Pemulihan data apabila memungkinkan.  \n3. Gangguan perangkat keras dapat dilakukan melalui:  \na) Perbaikan komponen.  \nb) Penggantian komponen yang rusak.  \nc) Pengajuan perbaikan kepada vendor jika diperlukan.  \n4. Apabila diperlukan waktu perbaikan yang lama, pengguna diberikan \ninformasi mengenai estimasi penyelesaian. \nPengujian dan Pemulihan \nSetelah pemasangan selesai, dilakukan pengujian konektivitas jaringan.  \n1. Setelah perbaikan selesai, dilakukan pengujian fungsi komputer.  \n2. Pengujian meliputi:  \na) Proses booting sistem.  \nb) Fungsi aplikasi yang digunakan.  \nc) Koneksi jaringan dan internet."
+      },
+      {
+        "page_num": 3,
+        "chars": 960,
+        "text": "d) Fungsi perangkat pendukung (printer, scanner, dan lainnya).  \n3. Apabila hasil pengujian belum sesuai, dilakukan tindakan perbaikan \nlanjutan \nDokumentasi dan Serah Terima \n1. Petugas TI mencatat tindakan perbaikan yang telah dilakukan.  \n2. Pengguna melakukan pengecekan terhadap komputer yang telah \ndiperbaiki.  \n3. Setelah komputer berfungsi normal, dilakukan serah terima kepada \npengguna.  \n4. Dokumen laporan gangguan dan perbaikan diarsipkan oleh Unit TI \nEvaluasi dan Pelaporan \n1. Unit TI melakukan evaluasi berkala terhadap jenis dan frekuensi gangguan \nyang terjadi.  \n2. Hasil evaluasi digunakan sebagai dasar peningkatan layanan dan \npemeliharaan perangkat.  \n3. Laporan troubleshooting disusun dan dilaporkan kepada pimpinan secara \nberkala.  \nUNIT TERKAIT  \n1. Wakil Ketua II.  \n2. Unit Teknologi Informasi (TI).  \n3. Pengguna Komputer.  \n4. Bagian Umum dan Sarana Prasarana.  \n5. Vendor/Penyedia Jasa Perbaikan Perangkat Teknologi Informasi"
+      }
+    ],
+    "error": null,
+    "metadata": {
+      "/Author": "Agung .",
+      "/Creator": "Microsoft® Word LTSC",
+      "/CreationDate": "D:20260714131241+07'00'",
+      "/ModDate": "D:20260714131241+07'00'",
+      "/Producer": "Microsoft® Word LTSC"
+    },
+    "total_pages": 3
+  },
+  {
+    "filename": "MIM_8_SOP-Penanganan-Gangguan-Koneksi-Internet-Jaringan-Lokal.pdf",
+    "pages": [
+      {
+        "page_num": 1,
+        "chars": 348,
+        "text": "STANDAR OPERASIONAL PROSEDUR (SOP) \nPROSEDUR OPERASIONAL BAKU GANGGUAN KONEKSI INTERNET JARINGAN LOKAL (POBGKIJL) \n \n \n \n2019 \nKEMENTERIAN RISET, TEKNOLOGI DAN PENDIDIKAN TINGGI \nUNIVERSITAS NEGERI MAKASSAR \nBIRO AKADEMIK DAN KEMAHASISWAAN \n \nJalan A.P. Pettarani Makassar Gedung Menara Pinisi \nTelp. (0411) 865677 Fax. 861377 \nLaman: www.unm.ac.id"
+      },
+      {
+        "page_num": 2,
+        "chars": 917,
+        "text": "KEMENTERIAN RISET, TEKNOLOGI DAN PENDIDIKAN \nTINGGI REPUBLIK INDONESIA \nNomor SOP  \nTanggal \nPembuat \n \nTanggal Revisi 2 Juli 2019 \nTanggal Efektif  \nDisahkan Oleh \nKepala Unit Pelaksanaan Teknis ICT \n \n \nDr. Eng. H. Muhammad Agung, S.T., M.T. \nNIP: 19720307 199702 1 001 \nUNIVERSITAS NEGERI MAKASSAR \nJUDUL SOP \nPROSEDUR OPERASIONAL BAKU \nGANGGUAN KONEKSI INTERNET \nJARINGAN LOKAL (POBGKIJL) UPT ICT \n \nDasar Hukum \nPeraturan Rektor Universitas Negeri Makassar No. 1073/H36/PP/2010 \ntentang Peraturan Akademik Bidang Pendidikan Program Diploma (S-0) \ndan Program Sarjana (S-1) Universitas Negeri Makassar. \nKualifikasi Pelaksana \n1. Mengerti tentang penyusunan SOP \n2. Memahami keterkaitan SOP yang satu dengan yang lainnya \n3. Mengerti tentang Prosedur Kegiatan POBGKIJL \nKeterkaitan Peralatan/Perlengkapan \n- . 1. . \n2. . \nPeringatan Pencatatan dan Pendataan \n- . Perlunya buku Pedoman Akademik bagi Mahasiswa Baru"
+      },
+      {
+        "page_num": 3,
+        "chars": 2646,
+        "text": "NO KEGIATAN  \nPELAKSANA  MUTU BAKU  \nKETERANGAN  Unit Kerja Front Office / Helpdesk Staf Jaringan Koordinator Divisi Jaringan Kepala Unit Pelaksanaan Teknis Kelengkapan  Waktu Output \n1 Staf Divisi Jaringan yang bertugas untuk \nmelakukan monitoring jaringan menemukan \nadanya gangguan pada node di jaringan lokal \nUNM atau menerima laporan dari pengguna jasa \ndilingkungan UNM melalui Front Office (FO). \n     Laporan Gangguan \nJaringan Lokal \n½ hari   \n2 Petugas Helpdesk/FO meneruskan laporan tersebut \nke Staf Jaringan. \n     Laporan Gangguan \nJaringan Lokal \n½ hari   \n3 Staf Divisi Jaringan segera melakukan pengecekan \nperangkat dengan menggunakan perintah ping. \n     Hasil Pengecekan \nPing \n1 hari   \n4 Apabila ping tidak berhasil, maka Staf Divisi Jaringan \nsegera menghubungi penanggungjawab Information \nTechnology (IT) tempat terjadi gangguan untuk \nmengkonfirmasi masalah yang terjadi. \n     Hasil Pengecekan Ping 1 hari   \n5 Staf IT melakukan proses troubleshooting lebih jauh. \nJika hanya masalah teknis biasa, segera ditangani \ndan laporkan ke pengguna.  \n     Berita Acara \nPemeriksaan Bandwidth \n2 hari   \n6 Jika gangguan terjadi pada infrastruktur IT, Staf \nBidang Jaringan segera melaporkan permasalahan \nyang terjadi kepada Koordinator Divisi Jaringan dan \nKepala Unit Pelaksanaan Teknis ICT. \n     Berita Acara Pemeriksaan Jaringan hari   \n7 Koordinator Divisi Jaringan segera menindaklanjuti \nlaporan dengan mengirimkan Staf Divisi Jaringan \nke lokasi tempat gangguan \n     Berita Acara \nPemeriksaan Jaringan \n1 hari   \n8 Staf Divisi Jaringan segera melakukan inventarisasi \npermasalahan dan berdasarkan hal tersebut \nditentukan estimasi waktu pemulihan. \n     Laporan Hasil \nPemeriksaan Lapangan \n2 hari   \n9 Staf Divisi Jaringan melaporkan kondisi di lapangan \nbeserta estimasi waktu pemulihan kepada \nKoordinator Divisi Jaringan. \n     Laporan Hasil \nPemeriksaan Lapangan \n1 hari   \n10 Koordinator Divisi Jaringan melaporkan kondisi \nyang terjadi beserta estimasi waktu pemulihan \nkepada Kepala Unit Pelaksanaan Teknis ICT dan \npenanggungjawab IT yang terkena dampak \ngangguan. \n     Laporan Hasil \nPemeriksaan Lapangan \n1 hari   \n11 Atas perintah dari Koordinator Divisi Jaringan, Staf \nDivisi Jaringan segera melakukan perbaikan sesuai \ndengan permasalahan dan estimasi waktu \npemulihan yang telah ditentukan \n     Surat Perintah \nPengerjaan Lapangan \nSesuai \nEstimasi \n  \n12 Setelah semua teratasi dengan baik, Staf Jaringan \nmelaporkan kepada Koordinator Divisi Jaringan"
+      },
+      {
+        "page_num": 4,
+        "chars": 0,
+        "text": ""
+      }
+    ],
+    "error": null,
+    "metadata": {
+      "/Author": "ANDIWAHID",
+      "/Creator": "Microsoft® Word for Microsoft 365",
+      "/CreationDate": "D:20230216125930+08'00'",
+      "/ModDate": "D:20230216125930+08'00'",
+      "/Producer": "Microsoft® Word for Microsoft 365"
+    },
+    "total_pages": 4
+  },
+  {
+    "filename": "SOP SKA_Diskominfo-SP_01_01_CFM_-01_SOP_BID_Tinf_3 20230525081216.pdf",
+    "pages": [
+      {
+        "page_num": 1,
+        "chars": 391,
+        "text": "PEMERINTAH KOTA SURAKARTA\nDINAS KOMUNIKASI, INFORMATIKA, STATISTIK DAN PERSANDIAN\nSTANDAR OPERASIONAL PROSEDUR (SOP)\nPEMELIHARAAN JARINGAN INTERNAL\nJalan Jenderal Sudirman No. 2 Surakarta\nTelp 0271-2931667\nEmail : diskominfosp@surakarta.go.id , Website : diskominfosp.surakarta.go.id\n \nDokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE"
+      },
+      {
+        "page_num": 2,
+        "chars": 1250,
+        "text": "PEMERINTAH KOTA SURAKARTA\nDINAS KOMUNIKASI, INFORMATIKA, STATISTIK DAN PERSANDIAN\nNomor SOP SKA.Diskominfo SP.01.01. CFM. 01.SOP.BID_Tinf/3\nTanggal Pembuatan 06-Juni-2022\nTanggal Revisi 0\nTanggal Pengesahan 25-Agustus-2022\nDisahkan oleh :\nKEPALA DINAS KOMUNIKASI, INFORMATIKA, STATISTIK DAN PERSANDIAN\nKota Surakarta\nHENY ERMAWATI, SH, M.Hum\nPembina Tingkat I\nNIP : 19700222 199503 2 004\nNama SOP : Pemeliharaan Jaringan Internal\nDasar Hukum Kualifikasi Pelaksana\n1. Undang-Undang Nomor 25 Tahun 2009 tentang Pelayanan Publik. 1. Mampu mengoperasikan komputer\n2. Undang-Undang Nmor 5 Tahun 2014 Tentang Aparatur Sipil Negara 2. Menguasai pengelolaan dan perbaikan jaringan\n3. Peraturan Daerah Nomor 8 Tahun 2021 tentang Pembentukan dan Susunan Perangkat Daerah\n4. Peraturan Walikota Nomor 34 Tahun 2021 tentang Pedoman Penyusunan, Monitoring dan\nEvaluasi Peta Proses Bisnis dan Standar Operasional Prosedur di Lingkungan Pemerintah\nKota Surakarta.\n5. Peraturan Walikota Nomor 40 Tahun 2021 tentang Kedudukan, Susunan Organisasi, Tugas\ndan Fungsi Serta Tata Kerja Dinas Daerah.\nKeterkaitan Peralatan\n1. Komputer\n2. Printer\n3. Jaringan internet\n \nDokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE"
+      },
+      {
+        "page_num": 3,
+        "chars": 512,
+        "text": "Keterkaitan Peralatan\n4. ATK\nPeringatan Pencatatan dan pendataan\n1. Pencapaian Waktu SOP Dalam Kondisi Normal 1. Dokumen Pengadaan Barang/Jasa\n2. Apabila SOP tidak dijalankan, maka kerusakan pada jaringan tidak dapat terdeteksi dan\nproses perbaikan tidak bisa dilakukan dengan segera sehingga kerusakan akan mempengaruhi\ndan menghambat pekerjaan.\n2. Catatan Daftar Kerusakan\n3. Laporan Perbaikan Jaringan\n \nDokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE"
+      },
+      {
+        "page_num": 4,
+        "chars": 1458,
+        "text": "No. Kegiatan Pelaksana Mutu Baku Keterangan\nPengelola Sistem\ndan Jaringan\nAnalis Sistem\nInformasi dan\nJaringan\nJF Pranata\nKomputer Ahli\nPertama\nPranata Komputer\nAhli Muda\nKepala Bidang\nTeknologi dan\nInformatika\nKelengkapan Waktu Output\n1 Mulai\n2 Memerintahkan Monitoring dan Evaluasi Pemeliharaan\nJaringan\nDisposisi untuk Monev\nPemeliharaan Jaringan\n1 Jam Perintah MONEV\n3 Melakukan Monitoring dan Evaluasi Pemeliharaan Jaringan Perintah MONEV 3 Jam Dokumen MONEV\n4 Menentukan objek/peralatan jaringan yang membutuhkan\nperbaikan\nDokumen MONEV 60\nMenit\nDokumen Pengadaan\nBarang/Jasa\nApabila kebutuhan untuk perbaikan tidak tersedia\nmaka melalui proses pengadaan barang/jasa\nterlebih dahulu\n5 Mengidentifikasi kerusakan peralatan jaringan Dokumen Pengadaan\nBarang/Jasa\n30\nMenit\nCatatan Daftar\nKerusakan Pada\nPeralatan\n6 Memvalidasi hasil identifikasi (perbaikan/penggantian)\nSistem Jaringan\nCatatan Daftar Kerusakan\nPada Peralatan\n30\nMenit\nCatatan Daftar\nKerusakan Pada\nPeralatan\nApabila tidak disetujui kembali ke SOP\nPenggantian Peralatan Jaringan\n7 Melakukan perbaikan Jaringan Catatan Daftar Kerusakan\nPada Peralatan\n3 Jam Catatan Daftar\nKerusakan Pada\nPeralatan\n8 Melakukan testing hasil perbaikan Jaringan Catatan Daftar Kerusakan\nPada Peralatan\n2 Jam Catatan Daftar\nKerusakan Pada\nPeralatan\nDilakukan Bersama Dengan Pengelola Sistem Dan\nJaringan\n \nDokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE"
+      },
+      {
+        "page_num": 5,
+        "chars": 798,
+        "text": "No. Kegiatan Pelaksana Mutu Baku Keterangan\nPengelola Sistem\ndan Jaringan\nAnalis Sistem\nInformasi dan\nJaringan\nJF Pranata\nKomputer Ahli\nPertama\nPranata Komputer\nAhli Muda\nKepala Bidang\nTeknologi dan\nInformatika\nKelengkapan Waktu Output\n9 Menyusun Laporan Perbaikan Jaringan Hasil Perbaikan Jaringan 30 Menit Draft Hasil Perbaikan Jaringan\n10 Memverifikasi Hasil Laporan Perbaikan Jaringan Draft Hasil Perbaikan Jaringan 15 Menit Laporan Perbaikan Jaringan\n11 Menetapkan Hasil Laporan Perbaikan Jaringan Laporan Perbaikan Jaringan 15 Menit Laporan Perbaikan Jaringan\n12 Mengarsipkan dokumen Laporan Perbaikan Jaringan Laporan Perbaikan Jaringan 15 Menit Dokumen Perbaikan Jaringan\n13 Selesai\n \nDokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE"
+      }
+    ],
+    "error": null,
+    "metadata": {
+      "/Creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
+      "/Producer": "Skia/PDF m113; modified using iText® 5.5.13 ©2000-2018 iText Group NV (AGPL-version)",
+      "/CreationDate": "D:20230525010059+00'00'",
+      "/ModDate": "D:20230525081112+07'00'"
+    },
+    "total_pages": 5
+  },
+  {
+    "filename": "SOP SKA_Setwan_02_03_CFM_03_SOP_BAG_UMUMKEU_16 20230524155532.pdf",
+    "pages": [
+      {
+        "page_num": 1,
+        "chars": 502,
+        "text": "5/24/23, 3:54 PM SOP SKA.Setwan.02.03.CFM.03.SOP.BAG_UMUMKEU/16\nhttps://appbagor.surakarta.go.id/sop/back/manajemen_sop/manajemen_sop/cetak_sop/7646 1/5\nPEMERINTAH KOTA SURAKARTA\nSEKRETARIAT DPRD\nSTANDAR OPERASIONAL PROSEDUR (SOP)\nPEMELIHARAAN KOMPUTER ATAU LAPTOP\nJALAN ADI SUCIPTO NO. 143A SURAKARTA\nTelp (0271) 712461\nEmail : sekretariat-dprd@surakarta.go.id , Website : dprd.surakarta.go.id\n \nDokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE"
+      },
+      {
+        "page_num": 2,
+        "chars": 1649,
+        "text": "5/24/23, 3:54 PM SOP SKA.Setwan.02.03.CFM.03.SOP.BAG_UMUMKEU/16\nhttps://appbagor.surakarta.go.id/sop/back/manajemen_sop/manajemen_sop/cetak_sop/7646 2/5\nPEMERINTAH KOTA SURAKARTA\nSEKRETARIAT DPRD\nNomor SOP SKA.Setwan.02.03.\nCFM.03.SOP.BAG_UMUMKEU/16\nTanggal\nPembuatan\n06-Juni-2022\nTanggal Revisi 0\nTanggal\nPengesahan\n25-Agustus-2022\nDisahkan oleh :\nSEKRETARIS DPRD\nKota Surakarta\nKINKIN SULTANUL HAKIM, SH, MM\nPembina Utama Muda\nNIP : 196706101994021003\nNama SOP : Pemeliharaan Komputer atau Laptop\nDasar Hukum Kualifikasi Pelaksana\n1. Undang-Undang Nomor 25 Tahun 2009 Tentang\nPelayanan Publik;\n1. Pendidikan Minimal SMA / Sederajat\n2. Undang Undang Nomor 5 tahun 2014 tentang\nAparatur Sipil Negara;\n2. Pengalaman Minimal 1 Tahun\n3. Peraturan Pemerintah (PP) Nomor 11 Tahun 2017\ntentang Manajemen Pegawai Negeri Sipil (PNS);\n3. Berkomitmen dan Bertanggung jawab\n4. Peraturan Menteri PAN & RB Nomor 35 Tahun\n2012 Tentang Pedoman Penyusunan SOP;\n4. Ramah, Sopan, Jujur dan Teliti\n5. Keputusan Menteri Pendayagunaan Aparatur\nNegara Nomor 71 Tahun 1993 tentang Pedoman\nUmum Tata Persuratan\n5. Memiliki Integritas\n6. Peraturan Gubernur Jawa Tengah Nomor 37 Tahun\n2013 Tentang Pedoman Penyusunan SOP;\n6. Memahami dan bisa mengoperasikan komputer\n7. Peraturan Daerah Kota Surakarta Nomor 8 Tahun\n2021 tentang Pembentukan dan Susunan Perangkat\nDaerah;\n8. Peraturan Walikota Surakarta Nomor 34 Tahun 2021\nTentang Pedoman Penyusunan, Monitoring dan\nEvaluasi Peta Proses Bisnis dan Standar\nOperasional Prosedur di Lingkungan Pemerintah\nKota Surakarta;\n \nDokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE"
+      },
+      {
+        "page_num": 3,
+        "chars": 985,
+        "text": "5/24/23, 3:54 PM SOP SKA.Setwan.02.03.CFM.03.SOP.BAG_UMUMKEU/16\nhttps://appbagor.surakarta.go.id/sop/back/manajemen_sop/manajemen_sop/cetak_sop/7646 3/5\nDasar Hukum Kualifikasi Pelaksana\n9. Peraturan Walikota Surakarta Nomor 42 Tahun 2021\nTentang Kedudukan, Susunan Organisasi, Tugas\ndan Fungsi Serta Tata Kerja Sekretariat Daerah Dan\nSekretariat Dewan Perwakilan Rakyat Daerah.\nKeterkaitan Peralatan\n1. Pengadaan Barang dan Jasa 1. ATK\n2. Printer\n3. Komputer\nPeringatan Pencatatan dan pendataan\n1. Melakukan pemeliharaan komputer atau laptop\nharus sesuai dengan jadwal, kalau tidak\npemeliharaan tidak efektif dan efisien\n1. Checklist pemeliharaan\n2. Melakukan perbaikan sesuai dengan jenis kerusakan\njika tidak perbaikan tidak efektif dan efisien\n2. Surat Usulan Pemeliharaan Komputer/Laptop\n3. Pencapaian waktu SOP dalam kondisi normal; 3. Kwitansi/Nota\n4. Kartu Pemeliharaan\n \nDokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE"
+      },
+      {
+        "page_num": 4,
+        "chars": 1116,
+        "text": "5/24/23, 3:54 PM SOP SKA.Setwan.02.03.CFM.03.SOP.BAG_UMUMKEU/16\nhttps://appbagor.surakarta.go.id/sop/back/manajemen_sop/manajemen_sop/cetak_sop/7646 4/5\nNo. Kegiatan Pelaksana Mutu Baku Keterangan\nPranata\nBarang dan\nJasa\nPengelola\nBMN\nAnalis\nKebijakan\nMuda\nKelengkapan Waktu Output\n1 Mulai\n2 Mengidentifikasi kelayakan komputer/laptop Checklist,\nATK\n10\nMenit\nChecklist\n3 Membuat surat usulan pemeliharaan/perbaikan Komputer,\nPrinter, ATK\n45\nMenit\nSurat Usulan\nPemeliharaan\nKomputer/lap\ntop\n4 Mendisposisi kepada pengurus barang untuk\nmengecek kondisi Komputer/Laptop\nSurat Usulan\nPemeliharaan\nKomputer/lap\ntop, Lembar\nDisposisi,\nATK\n5\nMenit\nSurat Usulan\nPemeliharaan\nKomputer/lap\ntop, Lembar\nDisposisi\n5 Mengecek kondisi komputer/laptop Checklist\nPemeliharaan,\nATK\n30\nMenit\nChecklist\nPemeliharaan\n6 Mengkonfirmasi kepada penyedia (jasa service\nkomputer/laptop )\nTelepon,\nkomputer,\nprinter, ATK\n30\nMenit\nSurat Tugas\n7 Menerima tagihan pemeliharaan/perbaikan\nkomputer/laptop\nKwitansi/Nota 5\nMenit\nKwitansi/Nota\n \nDokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE"
+      },
+      {
+        "page_num": 5,
+        "chars": 607,
+        "text": "5/24/23, 3:54 PM SOP SKA.Setwan.02.03.CFM.03.SOP.BAG_UMUMKEU/16\nhttps://appbagor.surakarta.go.id/sop/back/manajemen_sop/manajemen_sop/cetak_sop/7646 5/5\nNo. Kegiatan Pelaksana Mutu Baku Keterangan\nPranata\nBarang dan\nJasa\nPengelola\nBMN\nAnalis\nKebijakan\nMuda\nKelengkapan Waktu Output\n8 Menyerahkan tagihan pemeliharaan/perbaikan\nkomputer/laptop ke bendahara pengeluaran\nKwitansi/Nota 5\nMenit\nKwitansi/Nota\n9 Mencatat hasil pemeliharaan dan perbaikan Kwitansi/Nota 5\nMenit\nKartu\nPemeliharaan\n10 Selesai\n \nDokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE"
+      }
+    ],
+    "error": null,
+    "metadata": {
+      "/Creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
+      "/Producer": "Skia/PDF m113; modified using iText® 5.5.13 ©2000-2018 iText Group NV (AGPL-version)",
+      "/CreationDate": "D:20230524085446+00'00'",
+      "/ModDate": "D:20230524155429+07'00'"
+    },
+    "total_pages": 5
+  },
+  {
+    "filename": "SOP-IT.pdf",
+    "pages": [
+      {
+        "page_num": 1,
+        "chars": 593,
+        "text": "INSTITUT TEKNOLOGI DAN BISNIS AHMAD DAHLAN (ITB-AD) JAKARTA \n \n Standar Operasional Prosedur \nGANGGUAN KONEKSI JARINGAN LOCAL \nSPMI-ITB-AD/SOP/3/001 No. Rev: 0 Berlaku: Juni 2020 Hal : 15 – 1   \n \nSTANDAR OPERASIONAL PROSEDUR (SOP) \nSISTEM PENJAMINAN MITU INTERNAL (SPMI) \nINSTITUT TEKNOLOGI DAN BISNIS AHMAD DAHLAN JAKARTA \n \n \n \n \n \n \n \nProses \nPenanggung Jawab \nTanggal Nama Jabatan Tanda Tangan \nPerumusan Sutia Budi, S.E., M.Si Wakil Rektor 1 \n 06 Juli \n2021 \nPenetapan Dr. Mukhaer Pakkanna, S.E., M.M Rektor \n \n06 Juli \n2021 \nPengendalian Husnayetti, S.E, M.M Kepala BPM \n \n06 Juli \n2021"
+      },
+      {
+        "page_num": 2,
+        "chars": 1655,
+        "text": "INSTITUT TEKNOLOGI DAN BISNIS AHMAD DAHLAN (ITB-AD) JAKARTA \n \n Standar Operasional Prosedur \nGANGGUAN KONEKSI JARINGAN LOCAL \nSPMI-ITB-AD/SOP/3/001 No. Rev: 0 Berlaku: Juni 2020 Hal : 15 – 2   \n \nStandar Operasional Prosedur  \n(SOP)  \n \n1. Tujuan \nProsedur ini digunakan sebagai acuan peningkatan dan perbaikan jaringan di ITB \nAhmad Dahlan. \n \n2. Ruang Lingkup \nProsedur ini mengatur tata cara gangguan koneksi jaringan local dan untuk membahas \nmasalah-masalah yang berkaitan dengan gangguan koneksi jaringan local di ITB Ahmad \nDahlan. \n \n3. Standar Terkait \n1. Standar Informasi Communication Technology (ICT) \n2. Standar Sarana Dan Prasarana \n \n4. Definisi \nJaringan Local: Jaringan yang hanya di distribusikan di lingkungan kampus ITB Ahmad \nDahlan saja, dan 1 dengan yang lainya terkoneksi. \n \n5. Unit Terkait \n Rektorat \n Biro Administrasi Keuangan \n Mahasiswa \n \n6. Prosedur \n1. Setiap Prodi/Unit melaporkan gangguan jaringan melalui surat ke biro umum yang \ndi tunjukkan ke Wakil Rektor II. \n2. Biro umum mendisposisikan surat dari prodi/unit ke Wakil Rekor II. \n3. Wakil Rektor II mendisposisikan Biro IT melalui biro umum guna menindaklanjuti \nlaporan gangguan koneksi jaringan tersebut. \n4. Biro IT melakukan pengecekan ke lokasi, dan menginventarisasi ganguan tersebut. \n5. Biro IT melaporkan hasil pengecekan di lapangan ke Wakil Rektor II melaui biro \numum dengan mendisposisikan surat dari Biro IT. \n6. Wakil Rektor II menyetujui hasil disposisi Biro IT melalui biro umum. \n7. Biro IT dapat memperbaiki gangguan jaringan tersebut sesuai dengan Investigasi. \n8. Hasil penyelesaian pengerjaan akan dilaporkan kembali oleh Biro IT  ke Wakil"
+      },
+      {
+        "page_num": 3,
+        "chars": 1397,
+        "text": "INSTITUT TEKNOLOGI DAN BISNIS AHMAD DAHLAN (ITB-AD) JAKARTA \n \n Standar Operasional Prosedur \nGANGGUAN KONEKSI JARINGAN LOCAL \nSPMI-ITB-AD/SOP/3/001 No. Rev: 0 Berlaku: Juni 2020 Hal : 15 – 3   \n \nRektor II melalui biro umum. \n \n7. Bagan Alur \nKegiatan \nPelaku \nDokumen Waktu Warek II Prodi/ Unit Biro Umum Biro IT \nSetiap Prodi/Unit melaporkan \ngangguan jaringan melalui surat \nke biro umum yang di tunjukkan \nke Warek II. \n \n   Laporan \ngangguan \njaringan \n \nBiro umum mendisposisikan surat \ndr prodi/unit ke Warek II.   \n  Laporan \ngangguan \njaringan \n \nWarek II mendisposisikan Biro IT \nmelalui biro umum guna \nmenindaklanjuti laporan \ngangguan koneksi jaringan \ntersebut. \n  \n  Laporan \ngangguan \njaringan \n \nBiro IT melakukan pengecekan ke \nlokasi, dan menginventarisasi \ngangguan tersebut. \n  \n    \nBiro IT  melaporkan hasil \npengecekan di lapangan ke Warek \nII melaui biro umum dengan \nmendisposisikan surat dari Biro \nIT \n  \n  Laporan hasil \npengecek-an \n \nBiro umum mendisposisikan \nlaporan hasil pengecekan Biro IT \nke Warek II \n  \n  Laporan hasil \npengecek-an \n \nWarek II menyetujui hasil \ndisposisi Biro IT  melalui biro \numum. \n  \n  Laporan hasil \npengecek-an \n \nBiro IT  memperbaiki gangguan \njaringan tersebut sesuai dengan \nInvestigasi. \n  \n    \nHasil penyelesaian pengerjaan \nakan dilaporkan kembali oleh \nBiro IT ke Warek II melalui biro \numum. \n  \n  Laporan \nhasil \npengecek-an"
+      },
+      {
+        "page_num": 4,
+        "chars": 550,
+        "text": "INSTITUT TEKNOLOGI DAN BISNIS AHMAD DAHLAN (ITB-AD) JAKARTA \n \n Standar Operasional Prosedur \nGANGGUAN KONEKSI JARINGAN LOCAL \nSPMI-ITB-AD/SOP/3/001 No. Rev: 0 Berlaku: Juni 2020 Hal : 15 – 4   \n \n \n8. Referensi \n1. Permenpan No. 35 tahun 2012 tentang Pedoman  Penyusunan SOP Administrasi \nPemerintah. \n2. PP RI No. 4 tahun 2014 tentang Penyelenggaraan Pendidikan Tinggi dan \nPengelolaan Pendidikan Tinggi. \n3. Pedoman Akademik ITB Ahmad Dahlan Jakarta. \n4. Standar Mutu ITB Ahmad Dahlan Jakarta \n5. Kalender Akademik di Tahun Akademik yang Berjalan."
+      },
+      {
+        "page_num": 5,
+        "chars": 578,
+        "text": "INSTITUT TEKNOLOGI DAN BISNIS AHMAD DAHLAN (ITB-AD) JAKARTA \n \n Standar Operasional Prosedur \nPEMBUATAN E-MAIL \nSPMI-ITB-AD/SOP/3/001 No. Rev: 0 Berlaku: Juni 2020 Hal : 15 – 5   \n \nSTANDAR OPERASIONAL PROSEDUR (SOP) \nSISTEM PENJAMINAN MITU INTERNAL (SPMI) \nINSTITUT TEKNOLOGI DAN BISNIS AHMAD DAHLAN JAKARTA \n \n \n \n \n \n \n \nProses \nPenanggung Jawab \nTanggal Nama Jabatan Tanda Tangan \nPerumusan Sutia Budi, S.E., M.Si Wakil Rektor 1 \n 06 Juli \n2021 \nPenetapan Dr. Mukhaer Pakkanna, S.E., M.M Rektor \n \n06 Juli \n2021 \nPengendalian Husnayetti, S.E, M.M Kepala BPM \n \n06 Juli \n2021"
+      },
+      {
+        "page_num": 6,
+        "chars": 1353,
+        "text": "INSTITUT TEKNOLOGI DAN BISNIS AHMAD DAHLAN (ITB-AD) JAKARTA \n \n Standar Operasional Prosedur \nPEMBUATAN E-MAIL \nSPMI-ITB-AD/SOP/3/001 No. Rev: 0 Berlaku: Juni 2020 Hal : 15 – 6   \n \nStandar Operasional Prosedur  \n(SOP)  \n \n1. Tujuan \nProsedur ini digunakan sebagai acuan pembuatan e -mail di lingkungan ITB Ahmad \nDahlan. \n \n2. Ruang Lingkup \nProsedur ini mengatur tata cara pembuatan e-mail di lingkungan ITB Ahmad Dahlan. \n \n3. Standar Terkait \n1. Standar Informasi Communication Technology (ICT) \n2. Standar Sarana Dan Prasarana \n3.  \n4. Definisi \nE-mail adalah suatu sarana untuk mengirim dan menerima surat atau pesan dengan \nformat digital melalui jalur jaringan komputer. \n \n5. Unit Terkait \n1. Wakil Rektor I \n2. Biro Umum \n3. Biro IT \n \n6. Prosedur \n1. Biro/Unit/Prodi mengajukan surat pembuatan e-mail  yang ditunjukkan kepada Biro \nIT  melalui biro umum. \n2. Biro Umum mendisposisikan kepada Biro IT terkait pengajuan pembuatan e -mail \ndari biro/unit/prodi. \n3. Biro IT membuatkan e-mail untuk biro/unit/prodi. \n4. Hasil pembuatan e-mail akan dilaporkan dengan membuat surat yang ditunjukkan \nkepada Wakil Rektor I melalui biro umum. \n5. Biro umum mendisposisikan surat hasil pembuatan e-mail yang dibuat oleh Biro IT  \n6. Wakil Rektor I menerima surat disposisi dari biro umum tentang hasil laporan \npembuatan e-mail yang buat oleh Biro IT."
+      },
+      {
+        "page_num": 7,
+        "chars": 1388,
+        "text": "INSTITUT TEKNOLOGI DAN BISNIS AHMAD DAHLAN (ITB-AD) JAKARTA \n \n Standar Operasional Prosedur \nPEMBUATAN E-MAIL \nSPMI-ITB-AD/SOP/3/001 No. Rev: 0 Berlaku: Juni 2020 Hal : 15 – 7   \n \n7. Bagan Alur \nKegiatan \nPelaku \nDokumen Waktu Warek I Prodi/Unit Biro Umum Biro IT \nBiro/Unit/Prodi mengajukan \nsurat pembuatan e-mail yang \nditunjukkan kepada Biro IT \nmelalui biro umum. \n \n   Surat \npembuat-\nan email \n \nBiro Umum mendisposisikan \nkepada Biro IT  terkait \npengajuan pembuatan e-mail \ndari biro/unit/prodi. \n  \n  Surat \npembuat-an \nemail \n \nBiro IT membuatkan e-mail \nuntuk biro/unit/prodi.   \n    \nHasil pembuatan e-mail akan \ndilaporkan dengan membuat \nsurat yang ditunjukkan \nkepada Wakil Rektor I \nmelalui biro umum. \n  \n  Laporan \npembuat-an \nemail \n \nBiro umum mendisposisikan \nsurat hasil pembuatan e-mail \nyang dibuat oleh Biro IT. \n  \n  Laporan \npembuat-an \nemail \n \nWakil Rektor I menerima \nsurat disposisi dari biro \numum tentang hasil laporan \npembuatan e-mail yang buat \noleh Biro IT. \n  \n  Laporan \npembuat-an \nemail \n \n \n8. Referensi \n1. Permenpan No. 35 tahun 2012 tentang Pedoman  Penyusunan SOP Administrasi \nPemerintah. \n2. PP RI No. 4 tahun 2014 tentang Penyelenggaraan  Pendidikan Tinggi dan \nPengelolaan Pendidikan Tinggi. \n3. Pedoman Akademik ITB Ahmad Dahlan Jakarta. \n4. Standar Mutu ITB Ahmad Dahlan Jakarta \n5. Kalender Akademik di Tahun Akademik yang Berjalan."
+      },
+      {
+        "page_num": 8,
+        "chars": 585,
+        "text": "INSTITUT TEKNOLOGI DAN BISNIS AHMAD DAHLAN (ITB-AD) JAKARTA \n \n Standar Operasional Prosedur \nPENANGANAN PERBAIKAN PC \nSPMI-ITB-AD/SOP/3/001 No. Rev: 0 Berlaku: Juni 2020 Hal : 15 – 8   \n \nSTANDAR OPERASIONAL PROSEDUR (SOP) \nSISTEM PENJAMINAN MITU INTERNAL (SPMI) \nINSTITUT TEKNOLOGI DAN BISNIS AHMAD DAHLAN JAKARTA \n \n \n \n \n \n \n \nProses \nPenanggung Jawab \nTanggal Nama Jabatan Tanda Tangan \nPerumusan Sutia Budi, S.E., M.Si Wakil Rektor 1 \n 06 Juli \n2021 \nPenetapan Dr. Mukhaer Pakkanna, S.E., M.M Rektor \n \n06 Juli \n2021 \nPengendalian Husnayetti, S.E, M.M Kepala BPM \n \n06 Juli \n2021"
+      },
+      {
+        "page_num": 9,
+        "chars": 1450,
+        "text": "INSTITUT TEKNOLOGI DAN BISNIS AHMAD DAHLAN (ITB-AD) JAKARTA \n \n Standar Operasional Prosedur \nPENANGANAN PERBAIKAN PC \nSPMI-ITB-AD/SOP/3/001 No. Rev: 0 Berlaku: Juni 2020 Hal : 15 – 9   \n \nStandar Operasional Prosedur  \n(SOP)  \n \n1. Tujuan \nProsedur ini digunakan sebagai acuan penanganan Perbaikan Komputer di setiap Divisi \ndi ITB Ahmad Dahlan. \n \n2. Ruang Lingkup \nProsedur ini menjelaskan bagaimana penanganan Perbaikan Komputer serta tidak \nmengganggu kinerja Sumber daya manusia (SDM) di setiap divi si yang berada di ITB \nAhmad Dahlan. \n \n3. Standar Terkait \n1. Standar Informasi Communication Technology (ICT) \n2. Standar Sarana Dan Prasarana \n \n4. Definisi \n1. Hardware adalah perangkat keras yang terdapat di dalam komputer. \n2. Software adalah perangkat lunak yang terdapat di dalam sistem komputer. Diantaranya: \nMeanboard, Prosesor, VGA, Memory, dll ( pemrograman) diantaranya Microsoft \nOffice, Windows, antivirus, dll. \n \n5. Unit Terkait \n1. Unit/Biro/Badan/Lembaga \n2. Biro IT \n3. Biro Keuangan \n4. Biro Umum \n5. Warek II \n \n6. Prosedur \n1. Setiap Biro/unit/prodi mengajukan surat yang ditunjukkan kepada Wakil Rektor II \nuntuk perbaikan komputer kepada Biro IT melalui biro umum. \n2. Biro umum mendisposisikan surat pengajuan dari setiap biro/unit/prodi ke Wakil \nRektor II. \n3. Wakil Rektor II menyetujui surat pengajuan dari biro/unit/prodi. \n4. Biro umum hubungi Biro IT untuk mengecek semua komputer yang ada di \nbiro/unit/prodi."
+      },
+      {
+        "page_num": 10,
+        "chars": 1436,
+        "text": "INSTITUT TEKNOLOGI DAN BISNIS AHMAD DAHLAN (ITB-AD) JAKARTA \n \n Standar Operasional Prosedur \nPENANGANAN PERBAIKAN PC \nSPMI-ITB-AD/SOP/3/001 No. Rev: 0 Berlaku: Juni 2020 Hal : 15 – 10   \n \n5. Biro IT  mengecek komputer tersebut.  \n6. Hasil pengecekan akan dilaporkan dengan membuat surat yang ditujukan kepada \nWakil Rektor II melalui biro umum. \n7. Biro umum mendisposisikan surat hasil pengecekan dari Biro IT kepada Wakil \nRektor II. \n8. Jika dalam pengecekan terdapat pembelian alat maka Wakil Rektor II \nmendisposisikan surat pembelian alat kepada biro keuangan.. \n9. Biro keuangan mencairkan biaya pembelian alat kepada Biro IT  dengan \nmengkonfirmasi kepada Biro IT \n \n7. Bagan Alur \nKegiatan \nPelaku \nDokumen Waktu Warek \nII \nBiro \nUmum BAK Biro IT  \nBiro/ \nUnit/ \nProdi \nSetiap Biro/unit/prodi  \nmengajukan surat yang \nditunjukkan kepada Warek II \nuntuk perbaikan komputer \nkepada Biro IT melalui biro \numum. \n \n \n   Surat \npermohonan \n \nBiro umum mendisposisikan \nsurat pengajuan dari setiap \nbiro/unit/prodi ke Warek II. \n  \n   Surat \npermohonan \n \nWarek II menyetujui surat \npengajuan dari \nbiro/unit/prodi. \n  \n   Surat \npermohonan \n \nBiro umum hubungi Biro IT \nuntuk mengecek semua \nkomputer yang ada di \nbiro/unit/prodi. \n  \n     \nBiro IT mengecek komputer \ntersebut.    \n     \nHasil pengecekan akan \ndilaporkan dengan membuat \nsurat yang ditunjukkan \nkepada Warek II melalui biro \numum. \n  \n   Laporan hasil \npengecekan"
+      },
+      {
+        "page_num": 11,
+        "chars": 944,
+        "text": "INSTITUT TEKNOLOGI DAN BISNIS AHMAD DAHLAN (ITB-AD) JAKARTA \n \n Standar Operasional Prosedur \nPENANGANAN PERBAIKAN PC \nSPMI-ITB-AD/SOP/3/001 No. Rev: 0 Berlaku: Juni 2020 Hal : 15 – 11   \n \nBiro umum mendisposisikan \nsurat hasil pengecekan dari \nBiro IT kepada Wakil Rektor \nII. \n \n \n   Surat hasil \npengecekan \n \nJika dalam pengecekan \nterdapat pembelian alat \nmaka Wakil Rektor II \nmendisposisikan surat \npembelian alat kepada biro \nkeuangan. \n  \n   Surat \npembelian \nalat \n \nBiro keuangan mencairkan \nbiaya pembelian alat kepada \nBiro IT dengan \nmengonfirmasi kepada Biro \nIT. \n  \n     \n \n8. Referensi \n3. Permenpan No. 35 tahun 2012 tentang Pedoman  Penyusunan SOP Administrasi \nPemerintah. \n4. PP RI No. 4 tahun 2014 tentang Penyelenggaraan  Pendidikan Tinggi dan Pengelolaan \nPendidikan Tinggi. \n5. Pedoman Akademik ITB Ahmad Dahlan Jakarta. \n6. Standar Mutu ITB Ahmad Dahlan Jakarta \n7. Kalender Akademik di Tahun Akademik yang Berjalan."
+      },
+      {
+        "page_num": 12,
+        "chars": 594,
+        "text": "INSTITUT TEKNOLOGI DAN BISNIS AHMAD DAHLAN (ITB-AD) JAKARTA \n \n Standar Operasional Prosedur \nGANGGUAN KONEKSI JARINGAN LOCAL \nSPMI-ITB-AD/SOP/3/001 No. Rev: 0 Berlaku: Juni 2020 Hal : 15 – 12   \n \nSTANDAR OPERASIONAL PROSEDUR (SOP) \nSISTEM PENJAMINAN MITU INTERNAL (SPMI) \nINSTITUT TEKNOLOGI DAN BISNIS AHMAD DAHLAN JAKARTA \n \n \n \n \n \n \n \nProses \nPenanggung Jawab \nTanggal Nama Jabatan Tanda Tangan \nPerumusan Sutia Budi, S.E., M.Si Wakil Rektor 1 \n 06 Juli \n2021 \nPenetapan Dr. Mukhaer Pakkanna, S.E., M.M Rektor \n \n06 Juli \n2021 \nPengendalian Husnayetti, S.E, M.M Kepala BPM \n \n06 Juli \n2021"
+      },
+      {
+        "page_num": 13,
+        "chars": 1381,
+        "text": "INSTITUT TEKNOLOGI DAN BISNIS AHMAD DAHLAN (ITB-AD) JAKARTA \n \n Standar Operasional Prosedur \nGANGGUAN KONEKSI JARINGAN LOCAL \nSPMI-ITB-AD/SOP/3/001 No. Rev: 0 Berlaku: Juni 2020 Hal : 15 – 13   \n \nStandar Operasional Prosedur  \n(SOP)  \n \n1. Tujuan \nTujuan dari prosedur ini adalah Memonitoring penggunaan Bandwidth di ITB Ahmad \nDahlan. \n \n2. Ruang Lingkup \nProsedur ini menjelaskan tata cara penambahan bandwidth di lingkungan ITB Ahmad \nDahlan, sehingga Penyaluran bandwidth merata ke setiap prodi dan gedung. \n \n3. Standar Terkait \n1. Standar Informasi Communication Technology (ICT) \n2. Standar Sarana Dan Prasarana \n \n4. Definisi \nBandwidth yaitu jumlah satuan yang diukur dalam Mega Bait (MB). \n \n5. Unit Terkait \na. Biro IT \nb. Biro Umum \nc. Prodi/unit/lembaga \nd. Warek II \n \n6. Prosedur \n4. Prodi/Unit  mengajukan surat ke Wakil Rektor II  tentang penambahan Bandwidth. \n5. Wakil Rektor II mendisposisikan surat tersebut ke biro umum. \n6. Biro Umum, mengkonfirmasi ke Biro IT  terkait penambahan Bandwidht. \n7. Biro IT , mengecek jumlah pemakaian dan dilaporkan ke  Wakil Rektor II melalui biro \numum. \n8. Biro umum, membuat surat untuk di disposisikan ke Wakil Rektor II tentang pemakaian \njumlah bandwidth. \n9. Wakil Rektor II memutuskan jumlah pemakaian bandwidht yang akan di distribusikan \nsesuai dengan jumlah pemakaian. \n10. Pendistribusian oleh Kabiro dan Staf IT"
+      },
+      {
+        "page_num": 14,
+        "chars": 1419,
+        "text": "INSTITUT TEKNOLOGI DAN BISNIS AHMAD DAHLAN (ITB-AD) JAKARTA \n \n Standar Operasional Prosedur \nGANGGUAN KONEKSI JARINGAN LOCAL \nSPMI-ITB-AD/SOP/3/001 No. Rev: 0 Berlaku: Juni 2020 Hal : 15 – 14   \n \n7. Bagan Alur \nKegiatan \nPelaku \nDokumen Waktu Warek II Prodi/ Unit Biro Umum Biro IT \nProdi/Unit mengajukan surat \nke Wakil Rektor II tentang  \npenambahan Bandwidth. \n \n \n  Surat \npenambahan \nbandwitch \n \nWakil Rektor II \nmendisposisikan surat \ntersebut ke biro umum. \n  \n  Surat \npenambahan \nbandwitch \n \nBiro Umum, mengonfirmasi \nke Biro IT terkait penambahan \nBandwidht. \n  \n  Surat \npenambahan \nbandwitch \n \nBiro IT, mengecek jumlah \npemakaian dan dilaporkan ke \nWakil Rektor II melalui biro \numum. \n  \n  Laporan \npemakaian \nbandwitch \n \nBiro umum, membuat surat \nuntuk di diasosiasikan ke \nWakil Rektor II tentang \npemakaian jumlah bandwidth. \n  \n  Laporan \npemakaian \nbandwitch \n \nWakil Rektor II memutuskan \njumlah pemakaian bandwidht  \nyang akan di distribusikan \nsesuai dengan jumlah \npemakaian. \n  \n    \nPendistribusian oleh Ka . Biro \nIT dan Staf.   \n    \n \n8. Referensi \n1) Permenpan No. 35 tahun 2012 tentang Pedoman  Penyusunan SOP \nAdministrasi Pemerintah. \n2) PP RI No. 4 tahun 2014 tentang Penyelenggaraan Pendidikan Tinggi dan \nPengelolaan Pendidikan Tinggi. \n3) Pedoman Akademik ITB Ahmad Dahlan Jakarta. \n4) Standar Mutu ITB Ahmad Dahlan Jakarta \n5) Kalender Akademik di Tahun Akademik yang Berjalan."
+      }
+    ],
+    "error": null,
+    "metadata": {
+      "/Author": "BPM",
+      "/Creator": "Microsoft® Word 2019",
+      "/CreationDate": "D:20210815213150+07'00'",
+      "/ModDate": "D:20210815213150+07'00'",
+      "/Producer": "Microsoft® Word 2019"
+    },
+    "total_pages": 14
+  },
+  {
+    "filename": "SOP-TIK-PDI-04 Pengelolaan Sistem Helpdesk.pdf",
+    "pages": [
+      {
+        "page_num": 1,
+        "chars": 352,
+        "text": "STANDAR OPERASIONAL PROSEDUR (SOP) \nPENGELOLAAN SISTEM HELPDESK \n \n \n \n \n \n \n \nKEMENTERIAN RISET, TEKNOLOGI DAN PENDIDIKAN TINGGI \n UNIVERSITAS LAMPUNG \nUPT TEKNOLOGI INFORMASI DAN KOMUNIKASI  \nJl .Prof. Dr. Sumantri Brojonegoro No. 1 Bandar Lampung 35145  \nTelp (0721) 701609 Fax (0721) 702767 Email : tik@kpa.unila.ac.id Web : http://tik.unila.ac.id/"
+      },
+      {
+        "page_num": 2,
+        "chars": 1297,
+        "text": "KEMENTERIAN RISET, TEKNOLOGI DAN PENDIDIKAN TINGGI \nUNIVERSITAS LAMPUNG \nUPT TEKNOLOGI INFORMASI DAN KOMUNIKASI  \nJl Prof. Dr. Sumantri Brojonegoro No. 1 Bandar Lampung 35145 \n Telp (0721) 701609 Fax (0721) 702767 \nEmail : tik@kpa.unila.ac.id Web : http://tik.unila.ac.id/ \n \nNomor SOP SOP-TIK-PDI-04 \nTanggal Pembuatan 01 Juni 2015 \nTanggal Revisi 10 Agustus 2017 \nTanggal Efektif 31 Agustus 2017 \nDisahkan Oleh Pejabat Wakil Rektor Bidang Perencanaan, \nKerjasama, Teknologi Informasi dan \nKomunikasi Unila  \n \n \nProf. Dr. Mahatma Kufepaksi, S.E., M.Sc \nNIP. 19600426 198703 1 001 \nNama SOP Pengelolaan Sistem Helpdesk \nDasar Hukum Kualifikasi Pelaksana \n1. Undang-Undang Nomor 25 Tahun 2009 Tentang Pelayanan Publik; \n2. PP Nomor 96 Tahun 2012 Tentang Pelaksanaan UU Nomor 25 Tahun \n3. 2009 Tentang Pelayanan Publik; \n4. PP Nomor 4 Tahun 2014 Tentang Penyelenggaraan Pendidikan Tinggi \ndan Pengelolaan Perguruan Tinggi \n5. Permenpan dan Reformasi Birokrasi Nomor 15 Tahun 2014 Tentang \n6. Pedoman Standar Pelayanan; \n7. UU No. 11 tahun 2008 tentang Informasi Dan Transaksi Elektronik;  \nPendidikan minimal :  S1 untuk staf \nKeterampilan/Pemahaman : \n- Microsoft Office \n- Tata Persuratan \n \nSikap kerja/Soft Skill :  \n- Tanggap  \n- Antisipatif  \n- Cermat dan Teliti  \n- Berorientasi pada layanan"
+      },
+      {
+        "page_num": 3,
+        "chars": 682,
+        "text": "8. UU No.19 Tahun 2016 tentang Perubahan atas UU No. 11 tahun 2008;  \n9. Persyaratan ISO 9001:2015 \n \n \nKeterkaitan : Peralatan/Perlengkapan : \n• SOP Pelayanan Surat Masuk dan Surat Keluar \n• IK Pelayanan Pembuatan Login SSO dan Email \n \n1. ATK \n2. Komputer  \n3. Printer  \nPeringatan Pencatatan dan Pendataan \n• Bila tidak ada surat masuk/tiket helpdesk, maka kegiatan ini tidak dapat \ndilaksanakan \n• Bila permintaan kurang d irespon dengan cepa t, maka waktu \npenyelesaiannya tidak sesuai dengan harapan \n1. Surat permohonan : Nomor surat/agenda surat masuk \n2. Disposisi (jika diperlukan) \n3. Tiket helpdesk UPT TIK \n4. Surat Tugas \n5. Laporan pengelolaan sistem helpdesk berkala"
+      },
+      {
+        "page_num": 4,
+        "chars": 1227,
+        "text": "SOP PENGELOLAAN SISTEM HELPDESK \n \n \nNo Kegiatan \nPelaksana Mutu Baku Ket. \nStaf Ka. Div Kepala UPT Persyaratan/ Kelengkapan Waktu Output  \n1. \nMenerima Surat \nPermohonan / Tiket \nHelpdesk UPT TIK UNILA \n   Surat permohonan/ \ntiket helpdesk \n10 menit Surat permohonan/tiket \nhelpdesk dan Surat Tugas \n \n2. \nJika diperlukan keputusan \nKepala UPT, maka \nmembuat disposisi \npenanganan layanan \n   Surat permohonan/ \ntiket helpdesk dan \nSurat Tugas \n5 menit Surat permohonan/ tiket \nhelpdesk, Surat Tugas, dan \nDisposisi (jika diperlukan) \n \n3. \nMeneruskan disposisi \npenanganan layanan \n   Surat permohonan/ \ntiket helpdesk, \nSurat Tugas, dan \nDisposisi \n5 menit Surat permohonan/ tiket \nhelpdesk, Surat Tugas, dan \nDisposisi \n \n4. \nMenyelesaikan \npermintaan layanan \nsesuai permohonan \n   Surat Tugas 1 hari Surat Tugas  \n5. \nMelaporkan hasil \npenyelesaian layanan \nsecara satuan atau \nkolektif berkala (per \nbulan) kepada Kepala \nDivisi dan diteruskan \nkepada Kepala UPT TIK \n \n   Surat Tugas – \nlaporan kegiatan \n1 hari Surat Tugas – laporan \nkegiatan \nLaporan pengelolaan sistem \nhelpdesk berkala \n \n6. \nMengarsipkan Laporan \nhasil penyelesaian \nlayanan \n   Surat Tugas, \nLaporan \npengelolaan sistem \nhelpdesk berkala \n5 menit"
+      }
+    ],
+    "error": null,
+    "metadata": {
+      "/Author": "my",
+      "/Creator": "Microsoft® Word 2016",
+      "/CreationDate": "D:20190802152327+07'00'",
+      "/ModDate": "D:20190802152327+07'00'",
+      "/Producer": "Microsoft® Word 2016"
+    },
+    "total_pages": 4
+  },
+  {
+    "filename": "SOP-TIPD-2024-PENANGANAN-GANGGUAN-JARINGAN-KOMPUTER.pdf",
+    "pages": [
+      {
+        "page_num": 1,
+        "chars": 1648,
+        "text": "Prosedur Operasional Standar  \n \n \nNomor SOP 0008/TIPD/10/2023 \nTanggal \nPembuatan \n11 Oktober 2023 \nTanggal Efektif 11 Oktober 2023 \nNama SOP PENANGANAN GANGGUAN JARINGAN KOMPUTER \nKEMENTERIAN AGAMA RI \nINSTITUT AGAMA ISLAM NEGERI METRO LAMPUNG \nJl. Ki Hajar Dewantara Iringmulyo 15a Metro Timur Kota Metro Lampung \nwww.tipd.metrouniv.ac.id \nDisahkan Oleh \nKepala UPT Teknologi Informasi dan Pangkalan Data \n \n \nHaris Setiaji, MTI.,CISDE.,CISDV. \nCITA.,MOS.,MCE \nUPT TEKNOLOGI INFORMASI DAN PANGKALAN DATA Revisi Ke- 0 \n \nDASAR HUKUM RUANG LINGKUP \n1. Undang-Undang Nomor 25 Tahun 2009 tentang Pelayanan Publik. \n2. KMA Nomor 168 Tahun 2010 tentang Pedoman Penyusunan \nSOP di Lingk. Kementerian Agama \n1. Prosedur ini digunakan untuk menangani gannguan infrastruktur jaringan yang \ndimiliki IAIN Metro \n2. Prosedur kegiatan pemeliharaan perangkat wifi ini mencakup melakukan \nmonitoring accesspoint. \n3. Prosedur kegiatan pemeliharaan perangkat jaringan ini mencakup \nmelakukan pengecekan perangkat jaringan. \n \nTUJUAN KETERKAITAN \n1. Menangani gangguan koneksi internet jaringan utama. \n2. Memasang perangkat accesspoint. \n3. Melakukan pemeliharaan kelayakan accesspoint. \n4. Melakukan pemeliharaan kelayakan perangkat jaringan. \n \n1. Identifikasi kebutuhan Sistem Keamanan Informasi \n2. Pemeliharaan Perangkat Keamanan Informasi \n3. Penanganan Insiden Keamanan Informasi \nPERINGATAN PERALATAN/PERLENGKAPAN \nApabila SOP tidak dijalankan, maka Insiden Keamanan Informasi tidak \ndapat tertangani dengan cepat dan tepat serta penanganannya tidak \nterdokumentasi. \n1. Komputer, Koneksi Internet \n2. LAN Tester \n3. Tang Crimping \n4. Kabel UTP \n5. RJ45"
+      },
+      {
+        "page_num": 2,
+        "chars": 738,
+        "text": "Prosedur Operasional Standar  \n \n \n \n \nNo. \n \nKegiatan \nPelaksana Mutu Baku  \nKeterangan Pengguna Staff TIPD Persyaratan/ Perlengkapan Waktu Output \n1. Menyampaikan \nlaporan gangguan \n  Laporan lisan/ tulis 5 Menit Laporan pengaduan  \n2. Menerima dan \nmencatat laporan \ngangguan \n  Menerima aduan 5 Menit Catatan gangguan pada \nBuku kontrol  pemeliharaan \n \n3. Menganalisa dan \nmengidentifikasi \nbentuk gangguan  serta \nmenyusun rencana \ntindakan  penanganan \n  Catatan gangguan/ \nkerusakan \n30 Menit Jenis kerusakan/ gangguan serta \nrencana  tindakan \n \n4. Tindakan perbaikan/ \npenggantian \n  Jenis kerusakan/ \ngangguan \n1 Jam Tindakan perbaikan/ penggantian  \n5. Laporan   Buku catatan \npemeliharaan \n Jaringan berfungsi  dengan \nnormal"
+      }
+    ],
+    "error": null,
+    "metadata": {
+      "/ModDate": "D:20241125110353+07'00'",
+      "/Producer": "Microsoft® Word for Microsoft 365",
+      "/MSIP_Label_defa4170-0d19-0005-0004-bc88714345d2_ActionId": "c5b5a72a-4c37-4c37-81d1-d28e14535934",
+      "/MSIP_Label_defa4170-0d19-0005-0004-bc88714345d2_Method": "Standard",
+      "/MSIP_Label_defa4170-0d19-0005-0004-bc88714345d2_SiteId": "10ea396c-ac65-4f4d-a737-c44825ac07bb",
+      "/Author": "hanif",
+      "/Creator": "Microsoft® Word for Microsoft 365",
+      "/CreationDate": "D:20241125104555+07'00'",
+      "/MSIP_Label_defa4170-0d19-0005-0004-bc88714345d2_ContentBits": "0",
+      "/MSIP_Label_defa4170-0d19-0005-0004-bc88714345d2_Name": "defa4170-0d19-0005-0004-bc88714345d2",
+      "/MSIP_Label_defa4170-0d19-0005-0004-bc88714345d2_SetDate": "2024-07-30T09:03:31Z",
+      "/MSIP_Label_defa4170-0d19-0005-0004-bc88714345d2_Enabled": "true"
+    },
+    "total_pages": 2
+  },
+  {
+    "filename": "SOP_Helpdesk_Penanganan_Permasalahan_Teknis_TI_Sekretariat_BSIP.pdf",
+    "pages": [
+      {
+        "page_num": 1,
+        "chars": 1362,
+        "text": "Nomor SOP 891.2/OT.210/H.1/5/23\nTanggal Pembuatan 02 Mei 2023\nTanggal Revisi 29 Agustus 2024\nTanggal Efektif 06 September 2024\nDisahkan oleh Sekretaris Badan,\nDr. Ir. Haris Syahbuddin, DEA\nNIP 196804151992031001\nNAMA SOP\nDasar Hukum : Kualifikasi Pelaksana :\n1. Peraturan Presiden Nomor 95 Tahun 2018 tentang Sistem 1. Mampu mengoperasikan komputer\nPemerintahan Berbasis Elektronik. 2. Memiliki keahlian pemograman\n2. Peraturan Presiden Nomor 117 tahun 2022 mengenai kementerian pertanian 3. memiliki kemampuan trouble shooting jaringan internet\n3. Peraturan Menteri Komunikasi dan Informatika Nomor 10 Tahun 2018 4. Memiliki kemampuan pengoperasian Linux\ntentang Pelaksanaan Kewajiban Pelayanan Universal Telekomunikasi dan Informatika \n4.\n5.\nKeterkaitan : Peralatan/perlengkapan :\n1. Komputer/PC\n2. VPN Kementan\n3. Aplikasi berbasis SSH\n4. Aplikasi berbasis FTP\n5. Tools Command Prompt\nPencatatan dan Pendataan :\nHELPDESK PENANGANAN PERMASALAHAN \nTEKNIS TI SEKRETARIAT BSIP\nSurat Edaran Menpan RB Nomor 18 Tahun 2022 tentang Keterpaduan layanan\nPeraturan Menteri Pertanian Nomor 33 Tahun 2023 tentang Penerapan SPBE di Kementerian \nPertanian\nPeringatan :\nPekerjaan utama petugas helpdesk di Sub Bagian Informasi dan Pelaporan akan terbengkalai\nKEMENTERIAN PERTANIAN RI\nBADAN STANDARDISASI INSTRUMEN PERTANIAN\nSEKRETARIAT BADAN STANDARDISASI INSTRUMEN PERTANIAN"
+      },
+      {
+        "page_num": 2,
+        "chars": 1336,
+        "text": "Sekretaris Badan Ketua Kelompok/Tim Kerja Substansi Anggota Tim Kerja Kelengkapan Waktu Output\n1. Melakukan Disposisi surat disposisi\n2. Ketua Tim Datin mengkaji permintaan \nbantuan teknis dan memberikan \npersetujuan, \nSurat \ndisposisi\n20 menit Persetujuan \nketua tim kerja\nTergantung \nkesibukan  ketua tim \nkerja saat itu\n3. Jika permintaan ditolak, maka \nmemberikan penjelasan lebih terperinci \natau memberika solusi alternatif kepada \nstaf yang mengajukan permintaan\n1. Surat \ndisposisi\n2. Surat \npenjelasan \nterperinci\n30 menit\n4. Tim kerja memerintahkan anggota tim \nkerja mempersiapkan surat balasan \nkepada Satker Pemohon bahwa \npermintaan ditolak, surat dikoreksi tim \nkerja/Ketua kelompok dan di tanda \ntangani Sekretaris Badan \nsurat ke \nsatker \npemohon\n1 hari\n5. Melakukan identifikasi kerusakan Form \nPermintaan \nBantuan \nHelpdesk TI \nyang disetujui, \nperalatan \npendukung\n2 jam\n6. a. Melakukan identifikasi Kerusakan \nsistem aplikasi/website\nHasil \npemeriksaan\n1 hari Rekomendasi \nperbaikan\nb. Server Down Hasil \npemeriksaan\n1 hari\n7. Melakukan perbaikan kerusakan Laporan \ntahapan \nkegiatan \nperbaikan \nkerusakan\n1 - 5 hari\n8. Ketua Tim Kerja Substansi melakukan \npengecekan\nLaporan hasil \npengecekan \n1 hari\nSOP HELPDESK PENANGANAN PERMASALAHAN TEKNIS TI SEKRETARIAT BSIP\nPelaksana\nKet.No. Kegiatan\nMutu Baku\nSetuju\nTolak"
+      },
+      {
+        "page_num": 3,
+        "chars": 576,
+        "text": "Sekretaris Badan Ketua Kelompok/Tim Kerja Substansi Anggota Tim Kerja Kelengkapan Waktu Output\nPelaksana\nKet.No. Kegiatan\nMutu Baku\n9. Membuat laporan penyelesaian \nperbaikan kerusakan\nLaporan \nkerusakan \ndan draft \nsurat balasan \nke Satker \n1 hari Laporan hasil \nHelpdesk \nPenanganan \nPermasalahan \nTeknis TI \n10. Laporan hasil perbaikan kerusakan \ntelah di setujui ketua kelompok dan \nmenyiapkan surat balasan ke satker \nbahwa helpdesk selesai dilakukan, surat \ntersebut di koreksi tim kerja/ketua \nkelompok dan ditanda tanganu \nSekretaris Badan \n10 hari 2 jam 50 menitTotal"
+      }
+    ],
+    "error": null,
+    "metadata": {},
+    "total_pages": 3
+  }
+]

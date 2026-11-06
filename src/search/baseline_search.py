@@ -161,4 +161,4 @@ if __name__ == "__main__":
     if hasil_astar:
         jalur, total_biaya = hasil_astar
         print("[A*] Jalur eskalasi optimal:", " -> ".join(jalur))
-        print(f"[A*] Estimasi total waktu penanganan: {total_biaya} menit")[[8]]
+        print(f"[A*] Estimasi total waktu penanganan: {total_biaya} menit")
