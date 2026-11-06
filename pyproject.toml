@@ -8,7 +8,9 @@ authors = [
     { name = "Adryan Julianto Panjaitan", email = "andryanpanjaitan30@gmail.com" }
 ]
 requires-python = ">=3.11"
-dependencies = []
+dependencies = [
+    "pypdf>=5,<7",
+]
 
 [project.scripts]
 del-duktek-copilot = "del_duktek_copilot:main"

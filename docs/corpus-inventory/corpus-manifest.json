@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "documents": [
+    {
+      "document_id": "helpdesk-ugm-pos-2024",
+      "source_file": "1.-Layanan-Helpdesk-Teknologi-Informasi-ok.pdf",
+      "title": "POS Layanan Helpdesk Teknologi Informasi",
+      "source": "Universitas Gadjah Mada, Fakultas Kedokteran, Kesehatan Masyarakat, dan Keperawatan",
+      "category": "helpdesk",
+      "source_status": "Layak",
+      "page_start": 1,
+      "page_end": 3
+    },
+    {
+      "document_id": "backup-bpbd-diy-sop-35-2026",
+      "source_file": "20260330072215SOP_Penyimpanan_Data_dan_Backup_Data.pdf",
+      "title": "SOP Penyimpanan Data dan Backup Data",
+      "source": "BPBD Daerah Istimewa Yogyakarta, Pusdalops",
+      "category": "data_storage_backup",
+      "source_status": "Layak",
+      "page_start": 1,
+      "page_end": 2
+    },
+    {
+      "document_id": "network-bpbd-diy-sop-36-2026",
+      "source_file": "20260330072739SOP_Penanganan_Jaringan_Internet_dan_Intranet.pdf",
+      "title": "SOP Penanganan Jaringan Internet dan Intranet",
+      "source": "BPBD Daerah Istimewa Yogyakarta, Pusdalops",
+      "category": "network_connectivity",
+      "source_status": "Layak",
+      "page_start": 1,
+      "page_end": 2
+    },
+    {
+      "document_id": "network-unm-sop-2019",
+      "source_file": "MIM_8_SOP-Penanganan-Gangguan-Koneksi-Internet-Jaringan-Lokal.pdf",
+      "title": "SOP Penanganan Gangguan Koneksi Internet/Jaringan Lokal",
+      "source": "Universitas Negeri Makassar, UPT ICT",
+      "category": "network_connectivity",
+      "source_status": "Layak",
+      "page_start": 1,
+      "page_end": 3
+    },
+    {
+      "document_id": "network-maintenance-surakarta-diskominfo-2022",
+      "source_file": "SOP SKA_Diskominfo-SP_01_01_CFM_-01_SOP_BID_Tinf_3 20230525081216.pdf",
+      "title": "SOP Pemeliharaan Jaringan Internal",
+      "source": "Dinas Komunikasi, Informatika, Statistik dan Persandian Kota Surakarta",
+      "category": "network_maintenance",
+      "source_status": "Layak",
+      "page_start": 1,
+      "page_end": 5
+    },
+    {
+      "document_id": "endpoint-maintenance-surakarta-setwan-2022",
+      "source_file": "SOP SKA_Setwan_02_03_CFM_03_SOP_BAG_UMUMKEU_16 20230524155532.pdf",
+      "title": "SOP Pemeliharaan Komputer atau Laptop",
+      "source": "Sekretariat DPRD Kota Surakarta",
+      "category": "endpoint_maintenance",
+      "source_status": "Layak",
+      "page_start": 1,
+      "page_end": 5
+    },
+    {
+      "document_id": "sop-it-jaringan-lokal",
+      "source_file": "SOP-IT.pdf",
+      "title": "SOP Gangguan Koneksi Jaringan Lokal",
+      "source": "Institut Teknologi dan Bisnis Ahmad Dahlan Jakarta",
+      "category": "network_connectivity",
+      "source_status": "Layak",
+      "page_start": 1,
+      "page_end": 4
+    },
+    {
+      "document_id": "sop-it-email",
+      "source_file": "SOP-IT.pdf",
+      "title": "SOP Pembuatan E-mail",
+      "source": "Institut Teknologi dan Bisnis Ahmad Dahlan Jakarta",
+      "category": "account_management",
+      "source_status": "Layak",
+      "page_start": 5,
+      "page_end": 7
+    },
+    {
+      "document_id": "sop-it-perbaikan-pc",
+      "source_file": "SOP-IT.pdf",
+      "title": "SOP Penanganan Perbaikan PC",
+      "source": "Institut Teknologi dan Bisnis Ahmad Dahlan Jakarta",
+      "category": "endpoint_maintenance",
+      "source_status": "Layak",
+      "page_start": 8,
+      "page_end": 11
+    },
+    {
+      "document_id": "sop-it-bandwidth",
+      "source_file": "SOP-IT.pdf",
+      "title": "SOP Monitoring Penggunaan Bandwidth",
+      "source": "Institut Teknologi dan Bisnis Ahmad Dahlan Jakarta",
+      "category": "network_maintenance",
+      "source_status": "Layak",
+      "page_start": 12,
+      "page_end": 14
+    },
+    {
+      "document_id": "helpdesk-unila-sop-tik-pdi-04",
+      "source_file": "SOP-TIK-PDI-04 Pengelolaan Sistem Helpdesk.pdf",
+      "title": "SOP Pengelolaan Sistem Helpdesk",
+      "source": "UPT TIK Universitas Lampung",
+      "category": "helpdesk",
+      "source_status": "Layak",
+      "page_start": 1,
+      "page_end": 4
+    },
+    {
+      "document_id": "network-iain-metro-sop-tipd-2024",
+      "source_file": "SOP-TIPD-2024-PENANGANAN-GANGGUAN-JARINGAN-KOMPUTER.pdf",
+      "title": "SOP Penanganan Gangguan Jaringan Komputer",
+      "source": "UPT Teknologi Informasi dan Pangkalan Data IAIN Metro",
+      "category": "network_connectivity",
+      "source_status": "Layak",
+      "page_start": 1,
+      "page_end": 2
+    },
+    {
+      "document_id": "helpdesk-bsip-2024",
+      "source_file": "SOP_Helpdesk_Penanganan_Permasalahan_Teknis_TI_Sekretariat_BSIP.pdf",
+      "title": "SOP Helpdesk Penanganan Permasalahan Teknis TI Sekretariat BSIP",
+      "source": "Kementerian Pertanian, Badan Standardisasi Instrumen Pertanian, Sekretariat Badan",
+      "category": "helpdesk",
+      "source_status": "Layak",
+      "page_start": 1,
+      "page_end": 3
+    }
+  ]
+}
