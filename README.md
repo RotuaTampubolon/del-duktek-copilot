@@ -1,101 +1,159 @@
 # Del-Duktek Copilot
 
-Asisten cerdas berbasis AI untuk membantu klasifikasi, penentuan prioritas,
-eskalasi, dan rekomendasi penyelesaian laporan Dukungan Teknis (Duktek) IT
-Institut Teknologi Del.
+Del-Duktek Copilot adalah purwarupa asisten cerdas untuk membantu unit
+Dukungan Teknis (Duktek) IT Institut Teknologi Del dalam melakukan triase
+laporan, menentukan prioritas, memilih jalur eskalasi, dan memberikan
+rekomendasi penyelesaian gangguan teknologi informasi.
 
-Proyek ini dikembangkan sebagai bagian dari mata kuliah **10S3001 -
-Artificial Intelligence**, Program Studi Sarjana Sistem Informasi, Institut
-Teknologi Del, Semester Gasal 2026/2027.
+Proyek ini dikembangkan untuk mata kuliah **10S3001 - Artificial Intelligence**
+di Program Studi Sarjana Sistem Informasi, Institut Teknologi Del, Semester
+Gasal 2026/2027.
 
-> **Status saat ini:** Milestone 3 sudah memiliki dataset chunk, runner
-> embedding, rancangan evaluasi, persistent vector store, dan interface
-> retrieval. Eksperimen model dan indexing belum dapat diklaim selesai sebelum
-> dependency berhasil disinkronkan dan label relevansi ditinjau manusia
-> tersedia.
+> **Status branch `main`:** Milestone 1 dan Milestone 2 tersedia. Fitur
+> knowledge base dan vector search Milestone 3 dikembangkan pada branch fitur
+> terpisah dan belum menjadi bagian dari isi branch `main` ini.
 
 ## Daftar Isi
 
 - [Latar Belakang](#latar-belakang)
-- [Tujuan](#tujuan)
-- [Struktur Proyek](#struktur-proyek)
+- [Tujuan Sistem](#tujuan-sistem)
+- [Fitur yang Tersedia](#fitur-yang-tersedia)
+- [Struktur Repository](#struktur-repository)
+- [Teknologi](#teknologi)
 - [Persyaratan](#persyaratan)
 - [Instalasi](#instalasi)
-- [Menjalankan M1 dan M2](#menjalankan-m1-dan-m2)
-- [Knowledge Base dan Dataset](#knowledge-base-dan-dataset)
-- [Embedding](#embedding)
-- [Indexing Persistent](#indexing-persistent)
-- [Retrieval](#retrieval)
-- [Evaluasi Model](#evaluasi-model)
+- [Menjalankan Program](#menjalankan-program)
 - [Pengujian](#pengujian)
+- [Penjelasan Modul](#penjelasan-modul)
 - [Status Milestone](#status-milestone)
-- [Batasan yang Diketahui](#batasan-yang-diketahui)
+- [Rencana Pengembangan](#rencana-pengembangan)
+- [Dokumentasi](#dokumentasi)
 - [Lisensi](#lisensi)
 
 ## Latar Belakang
 
-Unit Duktek IT Del menangani laporan gangguan teknologi informasi, seperti
-gangguan jaringan, kerusakan perangkat, masalah helpdesk, dan kebutuhan
-eskalasi ke unit atau vendor terkait. Proses manual dapat menyebabkan
-ketidakkonsistenan klasifikasi, keterlambatan penanganan, serta distribusi
-beban kerja teknisi yang kurang merata.
+Unit Duktek menangani berbagai laporan, antara lain:
 
-Del-Duktek Copilot dirancang sebagai purwarupa agen cerdas yang membantu
-petugas melakukan triase laporan secara lebih konsisten dan memanfaatkan
-referensi prosedur teknis yang telah dikumpulkan.
+- Gangguan jaringan.
+- Kerusakan komputer atau perangkat keras.
+- Masalah perangkat mahasiswa.
+- Permintaan bantuan helpdesk.
+- Eskalasi kepada unit internal atau vendor.
 
-## Tujuan
+Jika proses triase dan eskalasi dilakukan sepenuhnya secara manual, beberapa
+masalah dapat muncul:
 
-Proyek ini mencakup:
+1. Klasifikasi laporan tidak konsisten.
+2. Tiket prioritas tinggi terlambat ditangani.
+3. Jalur eskalasi tidak selalu menggunakan biaya waktu minimum.
+4. Distribusi pekerjaan teknisi kurang seimbang.
 
-1. Pemodelan alur eskalasi tiket menggunakan UCS dan A*.
-2. Penyelesaian constraint penjadwalan teknisi menggunakan CSP.
-3. Pembangunan knowledge base berbasis chunk dokumen.
-4. Evaluasi model embedding multibahasa untuk semantic retrieval.
-5. Penyimpanan vector secara persisten dan retrieval berdasarkan kemiripan
-   semantik.
+Del-Duktek Copilot menjadi purwarupa untuk mengeksplorasi penerapan algoritma
+Artificial Intelligence pada permasalahan tersebut.
 
-## Struktur Proyek
+## Tujuan Sistem
+
+Sistem dirancang untuk:
+
+1. Merepresentasikan alur eskalasi tiket sebagai graf berbobot.
+2. Menentukan jalur eskalasi dengan biaya penanganan minimum.
+3. Menyusun jadwal shift teknisi berdasarkan constraint operasional.
+4. Menjadi dasar pengembangan knowledge base dan retrieval berbasis dokumen.
+5. Menyediakan struktur yang dapat dikembangkan menjadi pipeline RAG pada
+   milestone berikutnya.
+
+## Fitur yang Tersedia
+
+### Milestone 1: Baseline Search
+
+Modul baseline search menyediakan:
+
+- Uniform Cost Search (UCS).
+- A* Search.
+- Graf eskalasi berarah dengan bobot estimasi waktu penanganan.
+- Perhitungan jalur dan total biaya eskalasi.
+
+### Milestone 2: Business Constraint Solver
+
+Modul solver menyediakan:
+
+- Constraint Satisfaction Problem (CSP).
+- Propagasi constraint dengan AC-3.
+- Backtracking search.
+- Heuristik Minimum Remaining Values (MRV).
+- Constraint teknisi dan pembagian shift.
+- Analisis sensitivitas performa solver beserta visualisasi.
+
+### Milestone 3: Knowledge Base
+
+Milestone 3 sedang dikembangkan pada branch fitur. Rancangan tahap ini
+mencakup:
+
+- Preprocessing dan chunking dokumen referensi.
+- Evaluasi model embedding multibahasa.
+- Semantic retrieval.
+- Persistent vector storage.
+- Integrasi ChromaDB.
+
+Komponen Milestone 3 tidak boleh dianggap tersedia pada `main` kecuali file
+dan dependency terkait sudah digabungkan ke branch ini.
+
+## Struktur Repository
+
+Struktur branch `main` saat ini:
 
 ```text
 del-duktek-copilot/
-├── data/
-│   ├── *.pdf                         # Referensi eksternal
-│   └── processed/
-│       └── corpus_chunks.jsonl       # 114 chunk hasil preprocessing
-├── docs/
-│   ├── corpus-inventory/             # Manifest dan dokumentasi preprocessing
-│   ├── embedding/
-│   │   ├── model-evaluation.md       # Evaluasi dan pemilihan model
-│   │   └── embedding-experiment-results.md
-│   └── modul/                        # Materi milestone
-├── src/
-│   ├── del_duktek_copilot/
-│   │   └── embedding/
-│   │       ├── evaluate.py           # Runner benchmark embedding
-│   │       ├── index_corpus.py       # Indexing ke ChromaDB
-│   │       ├── retrieve.py           # Query retrieval
-│   │       └── vector_store.py       # Persistent vector store
-│   ├── search/
-│   │   └── baseline_search.py        # UCS dan A* untuk eskalasi
-│   └── solver/
-│       └── solver.py                 # CSP scheduler
-├── tests/
-│   ├── test_solver.py
-│   └── unit/
+├── .gitignore
+├── .python-version
+├── LICENSE
+├── README.md
 ├── pyproject.toml
 ├── uv.lock
-└── README.md
+├── docs/
+│   └── analisis-sensitivitas.png
+├── src/
+│   ├── __init__.py
+│   ├── del_duktek_copilot/
+│   │   └── __init__.py
+│   ├── search/
+│   │   ├── __init__.py
+│   │   └── baseline_search.py
+│   └── solver/
+│       ├── solver.py
+│       └── analisis_sensitivitas.py
+└── tests/
+    └── test_solver.py
 ```
+
+## Teknologi
+
+- Python 3.11 atau lebih baru.
+- `uv` sebagai package manager dan environment manager.
+- Standard library Python untuk implementasi graf dan algoritma pencarian.
+- `matplotlib` untuk visualisasi analisis sensitivitas.
+- `pytest` untuk pengujian.
+
+Dependency runtime dan development didefinisikan di
+[pyproject.toml](pyproject.toml). `uv.lock` digunakan untuk menjaga resolusi
+dependency tetap reproducible.
 
 ## Persyaratan
 
-- Python 3.11 atau lebih baru.
-- [uv](https://docs.astral.sh/uv/).
-- CPU dapat digunakan untuk inference, tetapi model embedding memerlukan
-  resource lebih besar daripada modul M1/M2.
-- Koneksi internet diperlukan saat pertama kali mengunduh dependency dan model
-  dari Hugging Face.
+Sebelum instalasi, pastikan tersedia:
+
+- Python sesuai versi pada [.python-version](.python-version).
+- `uv` versi terbaru yang didukung oleh sistem.
+- Git.
+- Terminal yang memiliki izin menjalankan Python dan `uv`.
+
+Verifikasi instalasi:
+
+```bash
+python --version
+uv --version
+git --version
+```
 
 ## Instalasi
 
@@ -106,276 +164,171 @@ git clone https://github.com/RotuaTampubolon/del-duktek-copilot.git
 cd del-duktek-copilot
 ```
 
-### 2. Sinkronkan environment
+### 2. Pastikan berada di branch `main`
+
+```bash
+git switch main
+```
+
+### 3. Sinkronkan dependency
 
 ```bash
 uv sync
 ```
 
-Dependency utama:
+Perintah tersebut membuat atau memperbarui environment yang dikelola `uv`
+berdasarkan `pyproject.toml` dan `uv.lock`.
 
-```text
-numpy>=1.26,<3
-chromadb>=1.0,<2
-sentence-transformers>=3.0,<6
-torch>=2.2,<3
-```
+Jika muncul error `Access is denied` pada Windows:
 
-Jika `uv sync` gagal dengan `Access is denied`, periksa permission executable
-`uv`, interpreter Python yang dipilih, dan izin folder cache. Jangan
-menganggap eksperimen berhasil sebelum perintah validasi dapat dijalankan.
+1. Pastikan `uv.exe` dapat dijalankan dari terminal.
+2. Pastikan folder repository dan cache `uv` dapat ditulis oleh pengguna.
+3. Pastikan tidak ada proses Python atau `uv` lain yang mengunci file.
+4. Jalankan kembali dari terminal yang memiliki izin workspace.
+5. Jangan menganggap instalasi berhasil sebelum `uv sync` selesai tanpa error.
 
-## Menjalankan M1 dan M2
+## Menjalankan Program
 
-### M1: Baseline Search
+### Menjalankan baseline search
 
 ```bash
 uv run python src/search/baseline_search.py
 ```
 
-Modul ini menampilkan jalur eskalasi dengan:
+Contoh ini membangun graf studi kasus eskalasi dan menampilkan:
 
-- Uniform Cost Search (UCS).
-- A* Search.
+- Jalur hasil UCS.
+- Estimasi waktu penanganan UCS.
+- Jalur hasil A*.
+- Estimasi waktu penanganan A*.
 
-### M2: Business Constraint Solver
+### Menjalankan business constraint solver
 
 ```bash
 uv run python src/solver/solver.py
 ```
 
-Modul ini memuat:
+Program tersebut menjalankan contoh penjadwalan teknisi dengan constraint:
 
-- Propagasi constraint AC-3.
-- Backtracking search.
-- Heuristik Minimum Remaining Values (MRV).
+- Andi dan Budi tidak boleh mendapat shift yang sama.
+- Citra tidak dapat mengambil shift malam.
+- Setiap shift harus terisi.
 
-## Knowledge Base dan Dataset
-
-Dataset hasil preprocessing Anggota 1 berada di:
-
-```text
-data/processed/corpus_chunks.jsonl
-```
-
-Dataset berisi **114 chunk** dari 10 PDF dan 43 halaman. Parameter preprocessing
-yang terdokumentasi:
-
-- `max_chars=1200`
-- `overlap_chars=150`
-- Chunk tidak melintasi halaman.
-- Setiap chunk memiliki `chunk_id` stabil dan unik.
-
-Format setiap baris JSONL:
-
-```json
-{
-  "text": "Isi chunk prosedur ...",
-  "metadata": {
-    "document_id": "helpdesk-ugm-pos-2024",
-    "source": "Universitas Gadjah Mada",
-    "category": "helpdesk",
-    "source_status": "Layak",
-    "authority_status": "referensi eksternal; bukan SOP resmi IT Del",
-    "source_file": "source.pdf",
-    "document_title": "POS Layanan Helpdesk Teknologi Informasi",
-    "page_number": 1,
-    "chunk_index": 1,
-    "chunk_id": "helpdesk-ugm-pos-2024-p001-c0001"
-  }
-}
-```
-
-`text` digunakan sebagai input embedding. `chunk_id` dan metadata disimpan
-sebagai identitas serta provenance; metadata tidak digabungkan ke teks embedding.
-Sumber pada corpus adalah referensi eksternal dan bukan otomatis SOP resmi IT
-Del.
-
-## Embedding
-
-Dua model yang disiapkan untuk dibandingkan:
-
-| Model | Dimensi | Peran |
-|---|---:|---|
-| `intfloat/multilingual-e5-base` | 768 | Kandidat utama sementara |
-| `sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2` | 384 | Baseline ringan |
-
-### Konfigurasi E5
-
-E5 menggunakan prefix berbeda untuk query dan passage:
-
-```text
-query: <teks laporan Duktek>
-passage: <teks chunk dokumen>
-```
-
-Konfigurasi yang digunakan runner:
-
-- Similarity: cosine.
-- Embedding dinormalisasi.
-- Batch size default: 16.
-- E5: maksimum model 512 token.
-- MiniLM: maksimum model 128 token.
-
-Pemilihan E5 sebagai kandidat utama masih bersifat sementara dan didasarkan
-pada kesesuaiannya dengan passage retrieval, dukungan bahasa Indonesia, dan
-konteks teknis corpus. Model final harus ditentukan berdasarkan benchmark
-lokal, bukan asumsi atau popularitas.
-
-Penjelasan lengkap tersedia di
-[docs/embedding/model-evaluation.md](docs/embedding/model-evaluation.md).
-
-## Indexing Persistent
-
-Indexing dilakukan oleh `index_corpus.py` dan menggunakan ChromaDB
-`PersistentClient`.
+### Menjalankan analisis sensitivitas
 
 ```bash
-uv run python -m del_duktek_copilot.embedding.index_corpus `
-  --chunks data/processed/corpus_chunks.jsonl `
-  --storage data/vector_store
+uv run python src/solver/analisis_sensitivitas.py
 ```
 
-Untuk Linux/macOS, gunakan `\` sebagai pemisah baris atau jalankan sebagai satu
-baris:
-
-```bash
-uv run python -m del_duktek_copilot.embedding.index_corpus --chunks data/processed/corpus_chunks.jsonl --storage data/vector_store
-```
-
-Perilaku indexing:
-
-- `chunk_id` digunakan sebagai ID vector.
-- Metadata scalar disimpan bersama dokumen.
-- `upsert` membuat proses re-index tidak menggandakan record.
-- Database dibuka kembali dari folder storage yang sama setelah aplikasi
-  dihentikan.
-
-MiniLM dapat digunakan untuk index pembanding:
-
-```bash
-uv run python -m del_duktek_copilot.embedding.index_corpus --chunks data/processed/corpus_chunks.jsonl --storage data/vector_store_minilm --model sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
-```
-
-## Retrieval
-
-Setelah index berhasil dibuat:
-
-```python
-from pathlib import Path
-
-from del_duktek_copilot.embedding.retrieve import retrieve
-
-hasil = retrieve(
-    "Bagaimana menangani gangguan koneksi jaringan lokal?",
-    storage_path=Path("data/vector_store"),
-    n_results=5,
-)
-
-print(hasil)
-```
-
-Retrieval mengembalikan dokumen, metadata, dan distance dari ChromaDB. Query
-E5 otomatis diberi prefix `query: `. Model yang digunakan untuk query harus
-sama dengan model yang digunakan saat indexing.
-
-## Evaluasi Model
-
-Runner benchmark:
-
-```bash
-uv run python -m del_duktek_copilot.embedding.evaluate `
-  --chunks data/processed/corpus_chunks.jsonl `
-  --relevance data/benchmarks/embedding_relevance.jsonl `
-  --output results/embedding-model-comparison.json
-```
-
-Runner membandingkan:
-
-- Recall@5.
-- Recall@10.
-- MRR@10.
-- nDCG@10.
-- Waktu encoding passage dan query.
-- Dimensi embedding.
-- Device, batch size, dan RSS memory.
-
-File relevance wajib berisi label yang diperiksa manusia:
-
-```json
-{
-  "query_id": "q-network-01",
-  "query": "Bagaimana menangani gangguan koneksi jaringan lokal?",
-  "relevant_chunk_ids": ["network-document-p001-c0001"]
-}
-```
-
-Runner akan menolak:
-
-- `chunk_id` yang tidak dikenal.
-- Query tanpa relevance ID.
-- Query ID duplikat.
-- Record chunk dengan metadata wajib yang hilang.
-
-Dataset query–relevance belum tersedia pada repository. Karena itu belum ada
-angka benchmark yang boleh diklaim sebagai hasil aktual. Detail status dan
-rancangan benchmark tersedia di
-[docs/embedding/embedding-experiment-results.md](docs/embedding/embedding-experiment-results.md).
+Output analisis dapat berupa data atau visualisasi performa solver sesuai
+konfigurasi pada modul tersebut.
 
 ## Pengujian
 
-Jalankan seluruh test setelah environment berhasil disinkronkan:
+Jalankan seluruh test:
 
 ```bash
 uv run pytest
 ```
 
-Test unit embedding mencakup:
+Jalankan test solver secara terfokus:
 
-- Validasi schema chunk JSONL.
-- Validasi relevance ID.
-- Perhitungan metrik retrieval.
-- Penolakan vector dengan dimensi tidak konsisten.
-- Penolakan upsert dengan data yang tidak sejajar.
+```bash
+uv run pytest tests/test_solver.py -v
+```
 
-Validasi dokumentasi:
+Sebelum membuat commit, periksa whitespace pada perubahan:
 
 ```bash
 git diff --check
 ```
 
+Jika test atau `uv` gagal karena permission Windows, catat error yang muncul
+dan perbaiki environment terlebih dahulu. Jangan mengganti hasil test dengan
+klaim berhasil.
+
+## Penjelasan Modul
+
+### `src/search/baseline_search.py`
+
+Berisi:
+
+- `DuktekEscalationGraph` untuk merepresentasikan graf.
+- `uniform_cost_search()` untuk mencari jalur dengan biaya minimum.
+- `a_star_search()` untuk pencarian berbasis biaya aktual dan heuristik.
+- `bangun_graf_studi_kasus()` untuk membuat graf contoh.
+
+Bobot edge pada graf merepresentasikan estimasi waktu penanganan dalam menit.
+
+### `src/solver/solver.py`
+
+Berisi:
+
+- Representasi variabel dan domain teknisi.
+- Constraint validasi assignment.
+- Fungsi `ac3()` dan `revise()`.
+- Fungsi `backtracking_search()`.
+- Heuristik `pilih_variabel_mrv()`.
+
+### `src/solver/analisis_sensitivitas.py`
+
+Berisi analisis perubahan performa solver berdasarkan ukuran atau konfigurasi
+masalah dan menghasilkan visualisasi yang disimpan di folder `docs/`.
+
 ## Status Milestone
 
-- [x] **Milestone 1** — Problem Framing, PEAS, baseline search UCS/A*.
-- [x] **Milestone 2** — Business Constraint Solver dengan AC-3 dan
-  backtracking.
-- [~] **Milestone 3** — Dataset chunk, desain embedding, runner evaluasi,
-  persistent vector store, dan retrieval sudah disiapkan; benchmark aktual
-  masih menunggu environment dan relevance labels manusia.
-- [ ] **Milestone 4** — Enterprise AI Agent Pipeline (LLM + RAG + MCP).
-- [ ] **Milestone 5** — Purwarupa web interaktif.
+| Milestone | Status | Keterangan |
+|---|---|---|
+| Milestone 1 | Selesai | Problem framing, PEAS, UCS, dan A* |
+| Milestone 2 | Selesai | CSP, AC-3, backtracking, dan analisis sensitivitas |
+| Milestone 3 | Pengembangan terpisah | Knowledge base, embedding, dan vector search |
+| Milestone 4 | Belum dimulai | Pipeline LLM, RAG, dan MCP |
+| Milestone 5 | Belum dimulai | Prototype web interaktif |
 
-## Batasan yang Diketahui
+## Rencana Pengembangan
 
-1. Corpus berisi referensi eksternal. Status “Layak” tidak berarti dokumen
-   tersebut merupakan SOP resmi IT Del.
-2. Chunking berbasis karakter; token length tetap perlu dipantau oleh runner
-   embedding.
-3. Model belum boleh dinyatakan terbaik sebelum benchmark dengan label
-   relevansi manusia dijalankan.
-4. Model Sentence-Transformers dan ChromaDB perlu diunduh pada instalasi
-   pertama.
-5. `uv.lock` harus berhasil diperbarui pada environment yang memiliki izin
-   eksekusi dan akses package index.
+Tahap berikutnya direncanakan sebagai berikut:
+
+1. Menggabungkan preprocessing corpus ke branch integrasi.
+2. Menambahkan dependency embedding setelah desain disetujui.
+3. Menjalankan evaluasi `multilingual-e5-base` dan MiniLM dengan query dan
+   relevance labels yang ditinjau manusia.
+4. Memilih model berdasarkan Recall@K, MRR, nDCG, latency, dan kebutuhan
+   resource.
+5. Menambahkan persistent vector storage.
+6. Mengembangkan retrieval sebagai bagian dari pipeline RAG.
+7. Menyediakan antarmuka penggunaan untuk petugas Duktek.
+
+Model embedding tidak boleh dinyatakan terbaik hanya berdasarkan popularitas
+atau ukuran model. Keputusan harus didukung hasil benchmark yang dapat
+direproduksi.
 
 ## Dokumentasi
 
-- [Evaluasi model embedding](docs/embedding/model-evaluation.md)
-- [Hasil dan kesiapan eksperimen](docs/embedding/embedding-experiment-results.md)
-- [Dokumentasi preprocessing](docs/corpus-inventory/preprocessing.md)
-- [Manifest corpus](docs/corpus-inventory/corpus-manifest.json)
+Dokumen yang tersedia pada branch `main`:
+
+- [Analisis sensitivitas solver](docs/analisis-sensitivitas.png)
+- [LICENSE](LICENSE)
+- [pyproject.toml](pyproject.toml)
+
+Dokumentasi Milestone 3 berada pada branch fitur terkait dan baru dapat
+dirujuk dari `main` setelah branch tersebut digabungkan.
+
+## Kontribusi
+
+Alur kontribusi yang disarankan:
+
+1. Buat branch fitur dari `main`.
+2. Buat perubahan yang terfokus pada satu milestone.
+3. Jalankan test yang relevan.
+4. Jalankan `git diff --check`.
+5. Dokumentasikan perubahan dan kendala.
+6. Buat pull request dengan deskripsi yang jelas.
+
+Perubahan pada M1 dan M2 harus mempertahankan perilaku yang sudah diuji,
+kecuali perubahan tersebut memang menjadi bagian dari requirement baru.
 
 ## Lisensi
 
-Proyek ini menggunakan lisensi MIT. Lihat [LICENSE](LICENSE) untuk detail
+Proyek ini menggunakan lisensi MIT. Lihat [LICENSE](LICENSE) untuk informasi
 selengkapnya.
